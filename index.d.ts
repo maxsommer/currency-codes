@@ -5,6 +5,17 @@ declare module "currency-codes" {
     digits: number;
     currency: string;
     countries: string[];
+    isoCountries: IsoCodeRecord[];
+  }
+
+  interface IsoCodeRecord {
+    name: string;
+    shortname: string;
+    sovereignity: string;
+    iso2: string;
+    iso3: string;
+    numeric: string;
+    subdivisionCode: string;
   }
 
   export function code(code: string): CurrencyCodeRecord | undefined;

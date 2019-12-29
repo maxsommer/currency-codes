@@ -1,0 +1,4162 @@
+{
+  "currencies": [
+    {
+      "code": "AED",
+      "number": "784",
+      "digits": 2,
+      "currency": "United Arab Emirates dirham",
+      "countries": ["United Arab Emirates"],
+      "isoCountries": [
+        {
+          "name": "The United Arab Emirates",
+          "shortname": "United Arab Emirates (the)",
+          "sovereignity": "UN member state",
+          "iso2": "AE",
+          "iso3": "ARE",
+          "numeric": "784",
+          "subdivisionCode": "ISO 3166-2:AE"
+        }
+      ]
+    },
+    {
+      "code": "AFN",
+      "number": "971",
+      "digits": 2,
+      "currency": "Afghan afghani",
+      "countries": ["Afghanistan"],
+      "isoCountries": [
+        {
+          "name": "The Islamic Republic of Afghanistan",
+          "shortname": "Afghanistan",
+          "sovereignity": "UN member state",
+          "iso2": "AF",
+          "iso3": "AFG",
+          "numeric": "004",
+          "subdivisionCode": "ISO 3166-2:AF"
+        }
+      ]
+    },
+    {
+      "code": "ALL",
+      "number": "008",
+      "digits": 2,
+      "currency": "Albanian lek",
+      "countries": ["Albania"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Albania",
+          "shortname": "Albania",
+          "sovereignity": "UN member state",
+          "iso2": "AL",
+          "iso3": "ALB",
+          "numeric": "008",
+          "subdivisionCode": "ISO 3166-2:AL"
+        }
+      ]
+    },
+    {
+      "code": "AMD",
+      "number": "051",
+      "digits": 2,
+      "currency": "Armenian dram",
+      "countries": ["Armenia"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Armenia",
+          "shortname": "Armenia",
+          "sovereignity": "UN member state",
+          "iso2": "AM",
+          "iso3": "ARM",
+          "numeric": "051",
+          "subdivisionCode": "ISO 3166-2:AM"
+        }
+      ]
+    },
+    {
+      "code": "ANG",
+      "number": "532",
+      "digits": 2,
+      "currency": "Netherlands Antillean guilder",
+      "countries": ["Curaçao (CW)", "Sint Maarten (SX)"],
+      "isoCountries": [
+        {
+          "name": "The Country of Curaçao",
+          "shortname": "Curaçao",
+          "sovereignity": "Netherlands",
+          "iso2": "CW",
+          "iso3": "CUW",
+          "numeric": "531",
+          "subdivisionCode": "ISO 3166-2:CW"
+        },
+        {
+          "name": "Sint Maarten",
+          "shortname": "Sint Maarten (Dutch part)",
+          "sovereignity": "Netherlands",
+          "iso2": "SX",
+          "iso3": "SXM",
+          "numeric": "534",
+          "subdivisionCode": "ISO 3166-2:SX"
+        }
+      ]
+    },
+    {
+      "code": "AOA",
+      "number": "973",
+      "digits": 2,
+      "currency": "Angolan kwanza",
+      "countries": ["Angola"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Angola",
+          "shortname": "Angola",
+          "sovereignity": "UN member state",
+          "iso2": "AO",
+          "iso3": "AGO",
+          "numeric": "024",
+          "subdivisionCode": "ISO 3166-2:AO"
+        }
+      ]
+    },
+    {
+      "code": "ARS",
+      "number": "032",
+      "digits": 2,
+      "currency": "Argentine peso",
+      "countries": ["Argentina"],
+      "isoCountries": [
+        {
+          "name": "The Argentine Republic",
+          "shortname": "Argentina",
+          "sovereignity": "UN member state",
+          "iso2": "AR",
+          "iso3": "ARG",
+          "numeric": "032",
+          "subdivisionCode": "ISO 3166-2:AR"
+        }
+      ]
+    },
+    {
+      "code": "AUD",
+      "number": "036",
+      "digits": 2,
+      "currency": "Australian dollar",
+      "countries": [
+        "Australia",
+        "Christmas Island (CX)",
+        "Cocos (Keeling) Islands (CC)",
+        "Heard Island and McDonald Islands (HM)",
+        "Kiribati (KI)",
+        "Nauru (NR)",
+        "Norfolk Island (NF)",
+        "Tuvalu (TV)"
+      ],
+      "isoCountries": [
+        {
+          "name": "The Commonwealth of Australia",
+          "shortname": "Australia",
+          "sovereignity": "UN member state",
+          "iso2": "AU",
+          "iso3": "AUS",
+          "numeric": "036",
+          "subdivisionCode": "ISO 3166-2:AU"
+        },
+        {
+          "name": "The Territory of Christmas Island",
+          "shortname": "Christmas Island",
+          "sovereignity": "Australia",
+          "iso2": "CX",
+          "iso3": "CXR",
+          "numeric": "162",
+          "subdivisionCode": "ISO 3166-2:CX"
+        },
+        {
+          "name": "The Territory of Cocos (Keeling) Islands",
+          "shortname": "Cocos (Keeling) Islands (the)",
+          "sovereignity": "Australia",
+          "iso2": "CC",
+          "iso3": "CCK",
+          "numeric": "166",
+          "subdivisionCode": "ISO 3166-2:CC"
+        },
+        {
+          "name": "The Territory of Heard Island and McDonald Islands",
+          "shortname": "Heard Island and McDonald Islands",
+          "sovereignity": "Australia",
+          "iso2": "HM",
+          "iso3": "HMD",
+          "numeric": "334",
+          "subdivisionCode": "ISO 3166-2:HM"
+        },
+        {
+          "name": "The Republic of Kiribati",
+          "shortname": "Kiribati",
+          "sovereignity": "UN member state",
+          "iso2": "KI",
+          "iso3": "KIR",
+          "numeric": "296",
+          "subdivisionCode": "ISO 3166-2:KI"
+        },
+        {
+          "name": "The Republic of Nauru",
+          "shortname": "Nauru",
+          "sovereignity": "UN member state",
+          "iso2": "NR",
+          "iso3": "NRU",
+          "numeric": "520",
+          "subdivisionCode": "ISO 3166-2:NR"
+        },
+        {
+          "name": "The Territory of Norfolk Island",
+          "shortname": "Norfolk Island",
+          "sovereignity": "Australia",
+          "iso2": "NF",
+          "iso3": "NFK",
+          "numeric": "574",
+          "subdivisionCode": "ISO 3166-2:NF"
+        },
+        {
+          "name": "Tuvalu",
+          "shortname": "Tuvalu",
+          "sovereignity": "UN member state",
+          "iso2": "TV",
+          "iso3": "TUV",
+          "numeric": "798",
+          "subdivisionCode": "ISO 3166-2:TV"
+        }
+      ]
+    },
+    {
+      "code": "AWG",
+      "number": "533",
+      "digits": 2,
+      "currency": "Aruban florin",
+      "countries": ["Aruba"],
+      "isoCountries": [
+        {
+          "name": "Aruba",
+          "shortname": "Aruba",
+          "sovereignity": "Netherlands",
+          "iso2": "AW",
+          "iso3": "ABW",
+          "numeric": "533",
+          "subdivisionCode": "ISO 3166-2:AW"
+        }
+      ]
+    },
+    {
+      "code": "AZN",
+      "number": "944",
+      "digits": 2,
+      "currency": "Azerbaijani manat",
+      "countries": ["Azerbaijan"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Azerbaijan",
+          "shortname": "Azerbaijan",
+          "sovereignity": "UN member state",
+          "iso2": "AZ",
+          "iso3": "AZE",
+          "numeric": "031",
+          "subdivisionCode": "ISO 3166-2:AZ"
+        }
+      ]
+    },
+    {
+      "code": "BAM",
+      "number": "977",
+      "digits": 2,
+      "currency": "Bosnia and Herzegovina convertible mark",
+      "countries": ["Bosnia and Herzegovina"],
+      "isoCountries": [
+        {
+          "name": "Bosnia and Herzegovina",
+          "shortname": "Bosnia and Herzegovina",
+          "sovereignity": "UN member state",
+          "iso2": "BA",
+          "iso3": "BIH",
+          "numeric": "070",
+          "subdivisionCode": "ISO 3166-2:BA"
+        }
+      ]
+    },
+    {
+      "code": "BBD",
+      "number": "052",
+      "digits": 2,
+      "currency": "Barbados dollar",
+      "countries": ["Barbados"],
+      "isoCountries": [
+        {
+          "name": "Barbados",
+          "shortname": "Barbados",
+          "sovereignity": "UN member state",
+          "iso2": "BB",
+          "iso3": "BRB",
+          "numeric": "052",
+          "subdivisionCode": "ISO 3166-2:BB"
+        }
+      ]
+    },
+    {
+      "code": "BDT",
+      "number": "050",
+      "digits": 2,
+      "currency": "Bangladeshi taka",
+      "countries": ["Bangladesh"],
+      "isoCountries": [
+        {
+          "name": "The People's Republic of Bangladesh",
+          "shortname": "Bangladesh",
+          "sovereignity": "UN member state",
+          "iso2": "BD",
+          "iso3": "BGD",
+          "numeric": "050",
+          "subdivisionCode": "ISO 3166-2:BD"
+        }
+      ]
+    },
+    {
+      "code": "BGN",
+      "number": "975",
+      "digits": 2,
+      "currency": "Bulgarian lev",
+      "countries": ["Bulgaria"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Bulgaria",
+          "shortname": "Bulgaria",
+          "sovereignity": "UN member state",
+          "iso2": "BG",
+          "iso3": "BGR",
+          "numeric": "100",
+          "subdivisionCode": "ISO 3166-2:BG"
+        }
+      ]
+    },
+    {
+      "code": "BHD",
+      "number": "048",
+      "digits": 3,
+      "currency": "Bahraini dinar",
+      "countries": ["Bahrain"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Bahrain",
+          "shortname": "Bahrain",
+          "sovereignity": "UN member state",
+          "iso2": "BH",
+          "iso3": "BHR",
+          "numeric": "048",
+          "subdivisionCode": "ISO 3166-2:BH"
+        }
+      ]
+    },
+    {
+      "code": "BIF",
+      "number": "108",
+      "digits": 0,
+      "currency": "Burundian franc",
+      "countries": ["Burundi"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Burundi",
+          "shortname": "Burundi",
+          "sovereignity": "UN member state",
+          "iso2": "BI",
+          "iso3": "BDI",
+          "numeric": "108",
+          "subdivisionCode": "ISO 3166-2:BI"
+        }
+      ]
+    },
+    {
+      "code": "BMD",
+      "number": "060",
+      "digits": 2,
+      "currency": "Bermudian dollar",
+      "countries": ["Bermuda"],
+      "isoCountries": [
+        {
+          "name": "Bermuda",
+          "shortname": "Bermuda",
+          "sovereignity": "United Kingdom",
+          "iso2": "BM",
+          "iso3": "BMU",
+          "numeric": "060",
+          "subdivisionCode": "ISO 3166-2:BM"
+        }
+      ]
+    },
+    {
+      "code": "BND",
+      "number": "096",
+      "digits": 2,
+      "currency": "Brunei dollar",
+      "countries": ["Brunei"],
+      "isoCountries": [
+        {
+          "name": "The Nation of Brunei, the Abode of Peace",
+          "shortname": "Brunei Darussalam",
+          "sovereignity": "UN member state",
+          "iso2": "BN",
+          "iso3": "BRN",
+          "numeric": "096",
+          "subdivisionCode": "ISO 3166-2:BN"
+        }
+      ]
+    },
+    {
+      "code": "BOB",
+      "number": "068",
+      "digits": 2,
+      "currency": "Boliviano",
+      "countries": ["Bolivia"],
+      "isoCountries": [
+        {
+          "name": "The Plurinational State of Bolivia",
+          "shortname": "Bolivia (Plurinational State of)",
+          "sovereignity": "UN member state",
+          "iso2": "BO",
+          "iso3": "BOL",
+          "numeric": "068",
+          "subdivisionCode": "ISO 3166-2:BO"
+        }
+      ]
+    },
+    {
+      "code": "BOV",
+      "number": "984",
+      "digits": 2,
+      "currency": "Bolivian Mvdol (funds code)",
+      "countries": ["Bolivia"],
+      "isoCountries": [
+        {
+          "name": "The Plurinational State of Bolivia",
+          "shortname": "Bolivia (Plurinational State of)",
+          "sovereignity": "UN member state",
+          "iso2": "BO",
+          "iso3": "BOL",
+          "numeric": "068",
+          "subdivisionCode": "ISO 3166-2:BO"
+        }
+      ]
+    },
+    {
+      "code": "BRL",
+      "number": "986",
+      "digits": 2,
+      "currency": "Brazilian real",
+      "countries": ["Brazil"],
+      "isoCountries": [
+        {
+          "name": "The Federative Republic of Brazil",
+          "shortname": "Brazil",
+          "sovereignity": "UN member state",
+          "iso2": "BR",
+          "iso3": "BRA",
+          "numeric": "076",
+          "subdivisionCode": "ISO 3166-2:BR"
+        }
+      ]
+    },
+    {
+      "code": "BSD",
+      "number": "044",
+      "digits": 2,
+      "currency": "Bahamian dollar",
+      "countries": ["Bahamas"],
+      "isoCountries": [
+        {
+          "name": "The Commonwealth of The Bahamas",
+          "shortname": "Bahamas (the)",
+          "sovereignity": "UN member state",
+          "iso2": "BS",
+          "iso3": "BHS",
+          "numeric": "044",
+          "subdivisionCode": "ISO 3166-2:BS"
+        }
+      ]
+    },
+    {
+      "code": "BTN",
+      "number": "064",
+      "digits": 2,
+      "currency": "Bhutanese ngultrum",
+      "countries": ["Bhutan"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Bhutan",
+          "shortname": "Bhutan",
+          "sovereignity": "UN member state",
+          "iso2": "BT",
+          "iso3": "BTN",
+          "numeric": "064",
+          "subdivisionCode": "ISO 3166-2:BT"
+        }
+      ]
+    },
+    {
+      "code": "BWP",
+      "number": "072",
+      "digits": 2,
+      "currency": "Botswana pula",
+      "countries": ["Botswana"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Botswana",
+          "shortname": "Botswana",
+          "sovereignity": "UN member state",
+          "iso2": "BW",
+          "iso3": "BWA",
+          "numeric": "072",
+          "subdivisionCode": "ISO 3166-2:BW"
+        }
+      ]
+    },
+    {
+      "code": "BYN",
+      "number": "933",
+      "digits": 2,
+      "currency": "Belarusian ruble",
+      "countries": ["Belarus"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Belarus",
+          "shortname": "Belarus",
+          "sovereignity": "UN member state",
+          "iso2": "BY",
+          "iso3": "BLR",
+          "numeric": "112",
+          "subdivisionCode": "ISO 3166-2:BY"
+        }
+      ]
+    },
+    {
+      "code": "BZD",
+      "number": "084",
+      "digits": 2,
+      "currency": "Belize dollar",
+      "countries": ["Belize"],
+      "isoCountries": [
+        {
+          "name": "Belize",
+          "shortname": "Belize",
+          "sovereignity": "UN member state",
+          "iso2": "BZ",
+          "iso3": "BLZ",
+          "numeric": "084",
+          "subdivisionCode": "ISO 3166-2:BZ"
+        }
+      ]
+    },
+    {
+      "code": "CAD",
+      "number": "124",
+      "digits": 2,
+      "currency": "Canadian dollar",
+      "countries": ["Canada"],
+      "isoCountries": [
+        {
+          "name": "Canada",
+          "shortname": "Canada",
+          "sovereignity": "UN member state",
+          "iso2": "CA",
+          "iso3": "CAN",
+          "numeric": "124",
+          "subdivisionCode": "ISO 3166-2:CA"
+        }
+      ]
+    },
+    {
+      "code": "CDF",
+      "number": "976",
+      "digits": 2,
+      "currency": "Congolese franc",
+      "countries": ["Democratic Republic of the Congo"],
+      "isoCountries": [
+        {
+          "name": "The Democratic Republic of the Congo",
+          "shortname": "Congo (the Democratic Republic of the)",
+          "sovereignity": "UN member state",
+          "iso2": "CD",
+          "iso3": "COD",
+          "numeric": "180",
+          "subdivisionCode": "ISO 3166-2:CD"
+        }
+      ]
+    },
+    {
+      "code": "CHE",
+      "number": "947",
+      "digits": 2,
+      "currency": "WIR Euro (complementary currency)",
+      "countries": ["Switzerland"],
+      "isoCountries": [
+        {
+          "name": "The Swiss Confederation",
+          "shortname": "Switzerland",
+          "sovereignity": "UN member state",
+          "iso2": "CH",
+          "iso3": "CHE",
+          "numeric": "756",
+          "subdivisionCode": "ISO 3166-2:CH"
+        }
+      ]
+    },
+    {
+      "code": "CHF",
+      "number": "756",
+      "digits": 2,
+      "currency": "Swiss franc",
+      "countries": ["Switzerland", "Liechtenstein (LI)"],
+      "isoCountries": [
+        {
+          "name": "The Swiss Confederation",
+          "shortname": "Switzerland",
+          "sovereignity": "UN member state",
+          "iso2": "CH",
+          "iso3": "CHE",
+          "numeric": "756",
+          "subdivisionCode": "ISO 3166-2:CH"
+        },
+        {
+          "name": "The Principality of Liechtenstein",
+          "shortname": "Liechtenstein",
+          "sovereignity": "UN member state",
+          "iso2": "LI",
+          "iso3": "LIE",
+          "numeric": "438",
+          "subdivisionCode": "ISO 3166-2:LI"
+        }
+      ]
+    },
+    {
+      "code": "CHW",
+      "number": "948",
+      "digits": 2,
+      "currency": "WIR Franc (complementary currency)",
+      "countries": ["Switzerland"],
+      "isoCountries": [
+        {
+          "name": "The Swiss Confederation",
+          "shortname": "Switzerland",
+          "sovereignity": "UN member state",
+          "iso2": "CH",
+          "iso3": "CHE",
+          "numeric": "756",
+          "subdivisionCode": "ISO 3166-2:CH"
+        }
+      ]
+    },
+    {
+      "code": "CLF",
+      "number": "990",
+      "digits": 4,
+      "currency": "Unidad de Fomento (funds code)",
+      "countries": ["Chile"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Chile",
+          "shortname": "Chile",
+          "sovereignity": "UN member state",
+          "iso2": "CL",
+          "iso3": "CHL",
+          "numeric": "152",
+          "subdivisionCode": "ISO 3166-2:CL"
+        }
+      ]
+    },
+    {
+      "code": "CLP",
+      "number": "152",
+      "digits": 0,
+      "currency": "Chilean peso",
+      "countries": ["Chile"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Chile",
+          "shortname": "Chile",
+          "sovereignity": "UN member state",
+          "iso2": "CL",
+          "iso3": "CHL",
+          "numeric": "152",
+          "subdivisionCode": "ISO 3166-2:CL"
+        }
+      ]
+    },
+    {
+      "code": "CNY",
+      "number": "156",
+      "digits": 2,
+      "currency": "Renminbi (Chinese) yuan",
+      "countries": ["China"],
+      "isoCountries": [
+        {
+          "name": "The People's Republic of China",
+          "shortname": "China",
+          "sovereignity": "UN member state",
+          "iso2": "CN",
+          "iso3": "CHN",
+          "numeric": "156",
+          "subdivisionCode": "ISO 3166-2:CN"
+        }
+      ]
+    },
+    {
+      "code": "COP",
+      "number": "170",
+      "digits": 2,
+      "currency": "Colombian peso",
+      "countries": ["Colombia"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Colombia",
+          "shortname": "Colombia",
+          "sovereignity": "UN member state",
+          "iso2": "CO",
+          "iso3": "COL",
+          "numeric": "170",
+          "subdivisionCode": "ISO 3166-2:CO"
+        }
+      ]
+    },
+    {
+      "code": "COU",
+      "number": "970",
+      "digits": 2,
+      "currency": "Unidad de Valor Real (UVR) (funds code)",
+      "countries": ["Colombia"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Colombia",
+          "shortname": "Colombia",
+          "sovereignity": "UN member state",
+          "iso2": "CO",
+          "iso3": "COL",
+          "numeric": "170",
+          "subdivisionCode": "ISO 3166-2:CO"
+        }
+      ]
+    },
+    {
+      "code": "CRC",
+      "number": "188",
+      "digits": 2,
+      "currency": "Costa Rican colon",
+      "countries": ["Costa Rica"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Costa Rica",
+          "shortname": "Costa Rica",
+          "sovereignity": "UN member state",
+          "iso2": "CR",
+          "iso3": "CRI",
+          "numeric": "188",
+          "subdivisionCode": "ISO 3166-2:CR"
+        }
+      ]
+    },
+    {
+      "code": "CUC",
+      "number": "931",
+      "digits": 2,
+      "currency": "Cuban convertible peso",
+      "countries": ["Cuba"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Cuba",
+          "shortname": "Cuba",
+          "sovereignity": "UN member state",
+          "iso2": "CU",
+          "iso3": "CUB",
+          "numeric": "192",
+          "subdivisionCode": "ISO 3166-2:CU"
+        }
+      ]
+    },
+    {
+      "code": "CUP",
+      "number": "192",
+      "digits": 2,
+      "currency": "Cuban peso",
+      "countries": ["Cuba"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Cuba",
+          "shortname": "Cuba",
+          "sovereignity": "UN member state",
+          "iso2": "CU",
+          "iso3": "CUB",
+          "numeric": "192",
+          "subdivisionCode": "ISO 3166-2:CU"
+        }
+      ]
+    },
+    {
+      "code": "CVE",
+      "number": "132",
+      "digits": 2,
+      "currency": "Cape Verdean escudo",
+      "countries": ["Cabo Verde"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Cabo Verde",
+          "shortname": "Cabo Verde",
+          "sovereignity": "UN member state",
+          "iso2": "CV",
+          "iso3": "CPV",
+          "numeric": "132",
+          "subdivisionCode": "ISO 3166-2:CV"
+        }
+      ]
+    },
+    {
+      "code": "CZK",
+      "number": "203",
+      "digits": 2,
+      "currency": "Czech koruna",
+      "countries": ["Czechia"],
+      "isoCountries": [
+        {
+          "name": "The Czech Republic",
+          "shortname": "Czechia",
+          "sovereignity": "UN member state",
+          "iso2": "CZ",
+          "iso3": "CZE",
+          "numeric": "203",
+          "subdivisionCode": "ISO 3166-2:CZ"
+        }
+      ]
+    },
+    {
+      "code": "DJF",
+      "number": "262",
+      "digits": 0,
+      "currency": "Djiboutian franc",
+      "countries": ["Djibouti"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Djibouti",
+          "shortname": "Djibouti",
+          "sovereignity": "UN member state",
+          "iso2": "DJ",
+          "iso3": "DJI",
+          "numeric": "262",
+          "subdivisionCode": "ISO 3166-2:DJ"
+        }
+      ]
+    },
+    {
+      "code": "DKK",
+      "number": "208",
+      "digits": 2,
+      "currency": "Danish krone",
+      "countries": ["Denmark", "Faroe Islands (FO)", "Greenland (GL)"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Denmark",
+          "shortname": "Denmark",
+          "sovereignity": "UN member state",
+          "iso2": "DK",
+          "iso3": "DNK",
+          "numeric": "208",
+          "subdivisionCode": "ISO 3166-2:DK"
+        },
+        {
+          "name": "The Faroe Islands",
+          "shortname": "Faroe Islands (the)",
+          "sovereignity": "Denmark",
+          "iso2": "FO",
+          "iso3": "FRO",
+          "numeric": "234",
+          "subdivisionCode": "ISO 3166-2:FO"
+        },
+        {
+          "name": "Kalaallit Nunaat",
+          "shortname": "Greenland",
+          "sovereignity": "Denmark",
+          "iso2": "GL",
+          "iso3": "GRL",
+          "numeric": "304",
+          "subdivisionCode": "ISO 3166-2:GL"
+        }
+      ]
+    },
+    {
+      "code": "DOP",
+      "number": "214",
+      "digits": 2,
+      "currency": "Dominican peso",
+      "countries": ["Dominican Republic"],
+      "isoCountries": [
+        {
+          "name": "The Dominican Republic",
+          "shortname": "Dominican Republic (the)",
+          "sovereignity": "UN member state",
+          "iso2": "DO",
+          "iso3": "DOM",
+          "numeric": "214",
+          "subdivisionCode": "ISO 3166-2:DO"
+        }
+      ]
+    },
+    {
+      "code": "DZD",
+      "number": "012",
+      "digits": 2,
+      "currency": "Algerian dinar",
+      "countries": ["Algeria"],
+      "isoCountries": [
+        {
+          "name": "The People's Democratic Republic of Algeria",
+          "shortname": "Algeria",
+          "sovereignity": "UN member state",
+          "iso2": "DZ",
+          "iso3": "DZA",
+          "numeric": "012",
+          "subdivisionCode": "ISO 3166-2:DZ"
+        }
+      ]
+    },
+    {
+      "code": "EGP",
+      "number": "818",
+      "digits": 2,
+      "currency": "Egyptian pound",
+      "countries": ["Egypt"],
+      "isoCountries": [
+        {
+          "name": "The Arab Republic of Egypt",
+          "shortname": "Egypt",
+          "sovereignity": "UN member state",
+          "iso2": "EG",
+          "iso3": "EGY",
+          "numeric": "818",
+          "subdivisionCode": "ISO 3166-2:EG"
+        }
+      ]
+    },
+    {
+      "code": "ERN",
+      "number": "232",
+      "digits": 2,
+      "currency": "Eritrean nakfa",
+      "countries": ["Eritrea"],
+      "isoCountries": [
+        {
+          "name": "The State of Eritrea",
+          "shortname": "Eritrea",
+          "sovereignity": "UN member state",
+          "iso2": "ER",
+          "iso3": "ERI",
+          "numeric": "232",
+          "subdivisionCode": "ISO 3166-2:ER"
+        }
+      ]
+    },
+    {
+      "code": "ETB",
+      "number": "230",
+      "digits": 2,
+      "currency": "Ethiopian birr",
+      "countries": ["Ethiopia"],
+      "isoCountries": [
+        {
+          "name": "The Federal Democratic Republic of Ethiopia",
+          "shortname": "Ethiopia",
+          "sovereignity": "UN member state",
+          "iso2": "ET",
+          "iso3": "ETH",
+          "numeric": "231",
+          "subdivisionCode": "ISO 3166-2:ET"
+        }
+      ]
+    },
+    {
+      "code": "EUR",
+      "number": "978",
+      "digits": 2,
+      "currency": "Euro",
+      "countries": [
+        "Åland Islands (AX)",
+        "European Union (EU)",
+        "Andorra (AD)",
+        "Austria (AT)",
+        "Belgium (BE)",
+        "Cyprus (CY)",
+        "Estonia (EE)",
+        "Finland (FI)",
+        "France (FR)",
+        "French Southern and Antarctic Lands (TF)",
+        "Germany (DE)",
+        "Greece (GR)",
+        "Guadeloupe (GP)",
+        "Ireland (IE)",
+        "Italy (IT)",
+        "Kosovo (XK)",
+        "Latvia (LV)",
+        "Lithuania (LT)",
+        "Luxembourg (LU)",
+        "Malta (MT)",
+        "French Guiana (GF)",
+        "Martinique (MQ)",
+        "Mayotte (YT)",
+        "Monaco (MC)",
+        "Montenegro (ME)",
+        "Netherlands (NL)",
+        "Portugal (PT)",
+        "Réunion (RE)",
+        "Saint Barthélemy (BL)",
+        "Saint Martin (MF)",
+        "Saint Pierre and Miquelon (PM)",
+        "San Marino (SM)",
+        "Slovakia (SK)",
+        "Slovenia (SI)",
+        "Spain (ES)",
+        "Holy See (VA)"
+      ],
+      "isoCountries": [
+        {
+          "name": "Åland",
+          "shortname": "Åland Islands",
+          "sovereignity": "Finland",
+          "iso2": "AX",
+          "iso3": "ALA",
+          "numeric": "248",
+          "subdivisionCode": "ISO 3166-2:AX"
+        },
+        {
+          "name": "The Principality of Andorra",
+          "shortname": "Andorra",
+          "sovereignity": "UN member state",
+          "iso2": "AD",
+          "iso3": "AND",
+          "numeric": "020",
+          "subdivisionCode": "ISO 3166-2:AD"
+        },
+        {
+          "name": "The Republic of Austria",
+          "shortname": "Austria",
+          "sovereignity": "UN member state",
+          "iso2": "AT",
+          "iso3": "AUT",
+          "numeric": "040",
+          "subdivisionCode": "ISO 3166-2:AT"
+        },
+        {
+          "name": "The Kingdom of Belgium",
+          "shortname": "Belgium",
+          "sovereignity": "UN member state",
+          "iso2": "BE",
+          "iso3": "BEL",
+          "numeric": "056",
+          "subdivisionCode": "ISO 3166-2:BE"
+        },
+        {
+          "name": "The Republic of Cyprus",
+          "shortname": "Cyprus",
+          "sovereignity": "UN member state",
+          "iso2": "CY",
+          "iso3": "CYP",
+          "numeric": "196",
+          "subdivisionCode": "ISO 3166-2:CY"
+        },
+        {
+          "name": "The Republic of Estonia",
+          "shortname": "Estonia",
+          "sovereignity": "UN member state",
+          "iso2": "EE",
+          "iso3": "EST",
+          "numeric": "233",
+          "subdivisionCode": "ISO 3166-2:EE"
+        },
+        {
+          "name": "The Republic of Finland",
+          "shortname": "Finland",
+          "sovereignity": "UN member state",
+          "iso2": "FI",
+          "iso3": "FIN",
+          "numeric": "246",
+          "subdivisionCode": "ISO 3166-2:FI"
+        },
+        {
+          "name": "The French Republic",
+          "shortname": "France",
+          "sovereignity": "UN member state",
+          "iso2": "FR",
+          "iso3": "FRA",
+          "numeric": "250",
+          "subdivisionCode": "ISO 3166-2:FR"
+        },
+        {
+          "name": "The Federal Republic of Germany",
+          "shortname": "Germany",
+          "sovereignity": "UN member state",
+          "iso2": "DE",
+          "iso3": "DEU",
+          "numeric": "276",
+          "subdivisionCode": "ISO 3166-2:DE"
+        },
+        {
+          "name": "The Hellenic Republic",
+          "shortname": "Greece",
+          "sovereignity": "UN member state",
+          "iso2": "GR",
+          "iso3": "GRC",
+          "numeric": "300",
+          "subdivisionCode": "ISO 3166-2:GR"
+        },
+        {
+          "name": "Guadeloupe",
+          "shortname": "Guadeloupe",
+          "sovereignity": "France",
+          "iso2": "GP",
+          "iso3": "GLP",
+          "numeric": "312",
+          "subdivisionCode": "ISO 3166-2:GP"
+        },
+        {
+          "name": "Ireland",
+          "shortname": "Ireland",
+          "sovereignity": "UN member state",
+          "iso2": "IE",
+          "iso3": "IRL",
+          "numeric": "372",
+          "subdivisionCode": "ISO 3166-2:IE"
+        },
+        {
+          "name": "The Italian Republic",
+          "shortname": "Italy",
+          "sovereignity": "UN member state",
+          "iso2": "IT",
+          "iso3": "ITA",
+          "numeric": "380",
+          "subdivisionCode": "ISO 3166-2:IT"
+        },
+        {
+          "name": "The Republic of Latvia",
+          "shortname": "Latvia",
+          "sovereignity": "UN member state",
+          "iso2": "LV",
+          "iso3": "LVA",
+          "numeric": "428",
+          "subdivisionCode": "ISO 3166-2:LV"
+        },
+        {
+          "name": "The Republic of Lithuania",
+          "shortname": "Lithuania",
+          "sovereignity": "UN member state",
+          "iso2": "LT",
+          "iso3": "LTU",
+          "numeric": "440",
+          "subdivisionCode": "ISO 3166-2:LT"
+        },
+        {
+          "name": "The Grand Duchy of Luxembourg",
+          "shortname": "Luxembourg",
+          "sovereignity": "UN member state",
+          "iso2": "LU",
+          "iso3": "LUX",
+          "numeric": "442",
+          "subdivisionCode": "ISO 3166-2:LU"
+        },
+        {
+          "name": "The Republic of Malta",
+          "shortname": "Malta",
+          "sovereignity": "UN member state",
+          "iso2": "MT",
+          "iso3": "MLT",
+          "numeric": "470",
+          "subdivisionCode": "ISO 3166-2:MT"
+        },
+        {
+          "name": "Guyane",
+          "shortname": "French Guiana",
+          "sovereignity": "France",
+          "iso2": "GF",
+          "iso3": "GUF",
+          "numeric": "254",
+          "subdivisionCode": "ISO 3166-2:GF"
+        },
+        {
+          "name": "Martinique",
+          "shortname": "Martinique",
+          "sovereignity": "France",
+          "iso2": "MQ",
+          "iso3": "MTQ",
+          "numeric": "474",
+          "subdivisionCode": "ISO 3166-2:MQ"
+        },
+        {
+          "name": "The Department of Mayotte",
+          "shortname": "Mayotte",
+          "sovereignity": "France",
+          "iso2": "YT",
+          "iso3": "MYT",
+          "numeric": "175",
+          "subdivisionCode": "ISO 3166-2:YT"
+        },
+        {
+          "name": "The Principality of Monaco",
+          "shortname": "Monaco",
+          "sovereignity": "UN member state",
+          "iso2": "MC",
+          "iso3": "MCO",
+          "numeric": "492",
+          "subdivisionCode": "ISO 3166-2:MC"
+        },
+        {
+          "name": "Montenegro",
+          "shortname": "Montenegro",
+          "sovereignity": "UN member state",
+          "iso2": "ME",
+          "iso3": "MNE",
+          "numeric": "499",
+          "subdivisionCode": "ISO 3166-2:ME"
+        },
+        {
+          "name": "The Kingdom of the Netherlands",
+          "shortname": "Netherlands (the)",
+          "sovereignity": "UN member state",
+          "iso2": "NL",
+          "iso3": "NLD",
+          "numeric": "528",
+          "subdivisionCode": "ISO 3166-2:NL"
+        },
+        {
+          "name": "The Portuguese Republic",
+          "shortname": "Portugal",
+          "sovereignity": "UN member state",
+          "iso2": "PT",
+          "iso3": "PRT",
+          "numeric": "620",
+          "subdivisionCode": "ISO 3166-2:PT"
+        },
+        {
+          "name": "Réunion",
+          "shortname": "Réunion",
+          "sovereignity": "France",
+          "iso2": "RE",
+          "iso3": "REU",
+          "numeric": "638",
+          "subdivisionCode": "ISO 3166-2:RE"
+        },
+        {
+          "name": "The Collectivity of Saint-Barthélemy",
+          "shortname": "Saint Barthélemy",
+          "sovereignity": "France",
+          "iso2": "BL",
+          "iso3": "BLM",
+          "numeric": "652",
+          "subdivisionCode": "ISO 3166-2:BL"
+        },
+        {
+          "name": "The Collectivity of Saint-Martin",
+          "shortname": "Saint Martin (French part)",
+          "sovereignity": "France",
+          "iso2": "MF",
+          "iso3": "MAF",
+          "numeric": "663",
+          "subdivisionCode": "ISO 3166-2:MF"
+        },
+        {
+          "name": "The Overseas Collectivity of Saint-Pierre and Miquelon",
+          "shortname": "Saint Pierre and Miquelon",
+          "sovereignity": "France",
+          "iso2": "PM",
+          "iso3": "SPM",
+          "numeric": "666",
+          "subdivisionCode": "ISO 3166-2:PM"
+        },
+        {
+          "name": "The Republic of San Marino",
+          "shortname": "San Marino",
+          "sovereignity": "UN member state",
+          "iso2": "SM",
+          "iso3": "SMR",
+          "numeric": "674",
+          "subdivisionCode": "ISO 3166-2:SM"
+        },
+        {
+          "name": "The Slovak Republic",
+          "shortname": "Slovakia",
+          "sovereignity": "UN member state",
+          "iso2": "SK",
+          "iso3": "SVK",
+          "numeric": "703",
+          "subdivisionCode": "ISO 3166-2:SK"
+        },
+        {
+          "name": "The Republic of Slovenia",
+          "shortname": "Slovenia",
+          "sovereignity": "UN member state",
+          "iso2": "SI",
+          "iso3": "SVN",
+          "numeric": "705",
+          "subdivisionCode": "ISO 3166-2:SI"
+        },
+        {
+          "name": "The Kingdom of Spain",
+          "shortname": "Spain",
+          "sovereignity": "UN member state",
+          "iso2": "ES",
+          "iso3": "ESP",
+          "numeric": "724",
+          "subdivisionCode": "ISO 3166-2:ES"
+        },
+        {
+          "name": "The Holy See",
+          "shortname": "Holy See (the)",
+          "sovereignity": "UN observer",
+          "iso2": "VA",
+          "iso3": "VAT",
+          "numeric": "336",
+          "subdivisionCode": "ISO 3166-2:VA"
+        }
+      ]
+    },
+    {
+      "code": "FJD",
+      "number": "242",
+      "digits": 2,
+      "currency": "Fiji dollar",
+      "countries": ["Fiji"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Fiji",
+          "shortname": "Fiji",
+          "sovereignity": "UN member state",
+          "iso2": "FJ",
+          "iso3": "FJI",
+          "numeric": "242",
+          "subdivisionCode": "ISO 3166-2:FJ"
+        }
+      ]
+    },
+    {
+      "code": "FKP",
+      "number": "238",
+      "digits": 2,
+      "currency": "Falkland Islands pound",
+      "countries": ["Falkland Islands (pegged to GBP 1:1)"],
+      "isoCountries": [
+        {
+          "name": "The Falkland Islands",
+          "shortname": "Falkland Islands (the)",
+          "sovereignity": "United Kingdom",
+          "iso2": "FK",
+          "iso3": "FLK",
+          "numeric": "238",
+          "subdivisionCode": "ISO 3166-2:FK"
+        }
+      ]
+    },
+    {
+      "code": "GBP",
+      "number": "826",
+      "digits": 2,
+      "currency": "Pound sterling",
+      "countries": [
+        "United Kingdom",
+        "British Indian Ocean Territory (IO) (also uses USD)",
+        "the  Isle of Man (IM",
+        "see Manx pound)",
+        "Jersey (JE",
+        "see Jersey pound)",
+        "and  Guernsey (GG",
+        "see Guernsey pound)"
+      ],
+      "isoCountries": [
+        {
+          "name": "The United Kingdom of Great Britain and Northern Ireland",
+          "shortname": "United Kingdom of Great Britain and Northern Ireland (the)",
+          "sovereignity": "UN member state",
+          "iso2": "GB",
+          "iso3": "GBR",
+          "numeric": "826",
+          "subdivisionCode": "ISO 3166-2:GB"
+        },
+        {
+          "name": "The British Indian Ocean Territory",
+          "shortname": "British Indian Ocean Territory (the)",
+          "sovereignity": "United Kingdom",
+          "iso2": "IO",
+          "iso3": "IOT",
+          "numeric": "086",
+          "subdivisionCode": "ISO 3166-2:IO"
+        },
+        {
+          "name": "The United Kingdom of Great Britain and Northern Ireland",
+          "shortname": "United Kingdom of Great Britain and Northern Ireland (the)",
+          "sovereignity": "UN member state",
+          "iso2": "GB",
+          "iso3": "GBR",
+          "numeric": "826",
+          "subdivisionCode": "ISO 3166-2:GB"
+        },
+        {
+          "name": "The United Kingdom of Great Britain and Northern Ireland",
+          "shortname": "United Kingdom of Great Britain and Northern Ireland (the)",
+          "sovereignity": "UN member state",
+          "iso2": "GB",
+          "iso3": "GBR",
+          "numeric": "826",
+          "subdivisionCode": "ISO 3166-2:GB"
+        },
+        {
+          "name": "The United Kingdom of Great Britain and Northern Ireland",
+          "shortname": "United Kingdom of Great Britain and Northern Ireland (the)",
+          "sovereignity": "UN member state",
+          "iso2": "GB",
+          "iso3": "GBR",
+          "numeric": "826",
+          "subdivisionCode": "ISO 3166-2:GB"
+        },
+        {
+          "name": "The United Kingdom of Great Britain and Northern Ireland",
+          "shortname": "United Kingdom of Great Britain and Northern Ireland (the)",
+          "sovereignity": "UN member state",
+          "iso2": "GB",
+          "iso3": "GBR",
+          "numeric": "826",
+          "subdivisionCode": "ISO 3166-2:GB"
+        },
+        {
+          "name": "The United Kingdom of Great Britain and Northern Ireland",
+          "shortname": "United Kingdom of Great Britain and Northern Ireland (the)",
+          "sovereignity": "UN member state",
+          "iso2": "GB",
+          "iso3": "GBR",
+          "numeric": "826",
+          "subdivisionCode": "ISO 3166-2:GB"
+        },
+        {
+          "name": "The United Kingdom of Great Britain and Northern Ireland",
+          "shortname": "United Kingdom of Great Britain and Northern Ireland (the)",
+          "sovereignity": "UN member state",
+          "iso2": "GB",
+          "iso3": "GBR",
+          "numeric": "826",
+          "subdivisionCode": "ISO 3166-2:GB"
+        }
+      ]
+    },
+    {
+      "code": "GEL",
+      "number": "981",
+      "digits": 2,
+      "currency": "Georgian lari",
+      "countries": ["Georgia (country)"],
+      "isoCountries": [
+        {
+          "name": "Georgia",
+          "shortname": "Georgia",
+          "sovereignity": "UN member state",
+          "iso2": "GE",
+          "iso3": "GEO",
+          "numeric": "268",
+          "subdivisionCode": "ISO 3166-2:GE"
+        }
+      ]
+    },
+    {
+      "code": "GHS",
+      "number": "936",
+      "digits": 2,
+      "currency": "Ghanaian cedi",
+      "countries": ["Ghana"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Ghana",
+          "shortname": "Ghana",
+          "sovereignity": "UN member state",
+          "iso2": "GH",
+          "iso3": "GHA",
+          "numeric": "288",
+          "subdivisionCode": "ISO 3166-2:GH"
+        }
+      ]
+    },
+    {
+      "code": "GIP",
+      "number": "292",
+      "digits": 2,
+      "currency": "Gibraltar pound",
+      "countries": ["Gibraltar (pegged to GBP 1:1)"],
+      "isoCountries": [
+        {
+          "name": "Gibraltar",
+          "shortname": "Gibraltar",
+          "sovereignity": "United Kingdom",
+          "iso2": "GI",
+          "iso3": "GIB",
+          "numeric": "292",
+          "subdivisionCode": "ISO 3166-2:GI"
+        }
+      ]
+    },
+    {
+      "code": "GMD",
+      "number": "270",
+      "digits": 2,
+      "currency": "Gambian dalasi",
+      "countries": ["Gambia"],
+      "isoCountries": [
+        {
+          "name": "The Republic of The Gambia",
+          "shortname": "Gambia (the)",
+          "sovereignity": "UN member state",
+          "iso2": "GM",
+          "iso3": "GMB",
+          "numeric": "270",
+          "subdivisionCode": "ISO 3166-2:GM"
+        }
+      ]
+    },
+    {
+      "code": "GNF",
+      "number": "324",
+      "digits": 0,
+      "currency": "Guinean franc",
+      "countries": ["Guinea"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Guinea",
+          "shortname": "Guinea",
+          "sovereignity": "UN member state",
+          "iso2": "GN",
+          "iso3": "GIN",
+          "numeric": "324",
+          "subdivisionCode": "ISO 3166-2:GN"
+        }
+      ]
+    },
+    {
+      "code": "GTQ",
+      "number": "320",
+      "digits": 2,
+      "currency": "Guatemalan quetzal",
+      "countries": ["Guatemala"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Guatemala",
+          "shortname": "Guatemala",
+          "sovereignity": "UN member state",
+          "iso2": "GT",
+          "iso3": "GTM",
+          "numeric": "320",
+          "subdivisionCode": "ISO 3166-2:GT"
+        }
+      ]
+    },
+    {
+      "code": "GYD",
+      "number": "328",
+      "digits": 2,
+      "currency": "Guyanese dollar",
+      "countries": ["Guyana"],
+      "isoCountries": [
+        {
+          "name": "The Co-operative Republic of Guyana",
+          "shortname": "Guyana",
+          "sovereignity": "UN member state",
+          "iso2": "GY",
+          "iso3": "GUY",
+          "numeric": "328",
+          "subdivisionCode": "ISO 3166-2:GY"
+        }
+      ]
+    },
+    {
+      "code": "HKD",
+      "number": "344",
+      "digits": 2,
+      "currency": "Hong Kong dollar",
+      "countries": ["Hong Kong"],
+      "isoCountries": [
+        {
+          "name": "The Hong Kong Special Administrative Region of China",
+          "shortname": "Hong Kong",
+          "sovereignity": "China",
+          "iso2": "HK",
+          "iso3": "HKG",
+          "numeric": "344",
+          "subdivisionCode": "ISO 3166-2:HK"
+        }
+      ]
+    },
+    {
+      "code": "HNL",
+      "number": "340",
+      "digits": 2,
+      "currency": "Honduran lempira",
+      "countries": ["Honduras"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Honduras",
+          "shortname": "Honduras",
+          "sovereignity": "UN member state",
+          "iso2": "HN",
+          "iso3": "HND",
+          "numeric": "340",
+          "subdivisionCode": "ISO 3166-2:HN"
+        }
+      ]
+    },
+    {
+      "code": "HRK",
+      "number": "191",
+      "digits": 2,
+      "currency": "Croatian kuna",
+      "countries": ["Croatia"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Croatia",
+          "shortname": "Croatia",
+          "sovereignity": "UN member state",
+          "iso2": "HR",
+          "iso3": "HRV",
+          "numeric": "191",
+          "subdivisionCode": "ISO 3166-2:HR"
+        }
+      ]
+    },
+    {
+      "code": "HTG",
+      "number": "332",
+      "digits": 2,
+      "currency": "Haitian gourde",
+      "countries": ["Haiti"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Haiti",
+          "shortname": "Haiti",
+          "sovereignity": "UN member state",
+          "iso2": "HT",
+          "iso3": "HTI",
+          "numeric": "332",
+          "subdivisionCode": "ISO 3166-2:HT"
+        }
+      ]
+    },
+    {
+      "code": "HUF",
+      "number": "348",
+      "digits": 2,
+      "currency": "Hungarian forint",
+      "countries": ["Hungary"],
+      "isoCountries": [
+        {
+          "name": "Hungary",
+          "shortname": "Hungary",
+          "sovereignity": "UN member state",
+          "iso2": "HU",
+          "iso3": "HUN",
+          "numeric": "348",
+          "subdivisionCode": "ISO 3166-2:HU"
+        }
+      ]
+    },
+    {
+      "code": "IDR",
+      "number": "360",
+      "digits": 2,
+      "currency": "Indonesian rupiah",
+      "countries": ["Indonesia"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Indonesia",
+          "shortname": "Indonesia",
+          "sovereignity": "UN member state",
+          "iso2": "ID",
+          "iso3": "IDN",
+          "numeric": "360",
+          "subdivisionCode": "ISO 3166-2:ID"
+        }
+      ]
+    },
+    {
+      "code": "ILS",
+      "number": "376",
+      "digits": 2,
+      "currency": "Israeli new shekel",
+      "countries": ["Israel", "Palestinian Authority"],
+      "isoCountries": [
+        {
+          "name": "The State of Israel",
+          "shortname": "Israel",
+          "sovereignity": "UN member state",
+          "iso2": "IL",
+          "iso3": "ISR",
+          "numeric": "376",
+          "subdivisionCode": "ISO 3166-2:IL"
+        },
+        {
+          "name": "The State of Israel",
+          "shortname": "Israel",
+          "sovereignity": "UN member state",
+          "iso2": "IL",
+          "iso3": "ISR",
+          "numeric": "376",
+          "subdivisionCode": "ISO 3166-2:IL"
+        }
+      ]
+    },
+    {
+      "code": "INR",
+      "number": "356",
+      "digits": 2,
+      "currency": "Indian rupee",
+      "countries": ["India", "Bhutan"],
+      "isoCountries": [
+        {
+          "name": "The Republic of India",
+          "shortname": "India",
+          "sovereignity": "UN member state",
+          "iso2": "IN",
+          "iso3": "IND",
+          "numeric": "356",
+          "subdivisionCode": "ISO 3166-2:IN"
+        },
+        {
+          "name": "The Kingdom of Bhutan",
+          "shortname": "Bhutan",
+          "sovereignity": "UN member state",
+          "iso2": "BT",
+          "iso3": "BTN",
+          "numeric": "064",
+          "subdivisionCode": "ISO 3166-2:BT"
+        }
+      ]
+    },
+    {
+      "code": "IQD",
+      "number": "368",
+      "digits": 3,
+      "currency": "Iraqi dinar",
+      "countries": ["Iraq"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Iraq",
+          "shortname": "Iraq",
+          "sovereignity": "UN member state",
+          "iso2": "IQ",
+          "iso3": "IRQ",
+          "numeric": "368",
+          "subdivisionCode": "ISO 3166-2:IQ"
+        }
+      ]
+    },
+    {
+      "code": "IRR",
+      "number": "364",
+      "digits": 2,
+      "currency": "Iranian rial",
+      "countries": ["Iran"],
+      "isoCountries": [
+        {
+          "name": "The Islamic Republic of Iran",
+          "shortname": "Iran (Islamic Republic of)",
+          "sovereignity": "UN member state",
+          "iso2": "IR",
+          "iso3": "IRN",
+          "numeric": "364",
+          "subdivisionCode": "ISO 3166-2:IR"
+        }
+      ]
+    },
+    {
+      "code": "ISK",
+      "number": "352",
+      "digits": 0,
+      "currency": "Icelandic króna",
+      "countries": ["Iceland"],
+      "isoCountries": [
+        {
+          "name": "Iceland",
+          "shortname": "Iceland",
+          "sovereignity": "UN member state",
+          "iso2": "IS",
+          "iso3": "ISL",
+          "numeric": "352",
+          "subdivisionCode": "ISO 3166-2:IS"
+        }
+      ]
+    },
+    {
+      "code": "JMD",
+      "number": "388",
+      "digits": 2,
+      "currency": "Jamaican dollar",
+      "countries": ["Jamaica"],
+      "isoCountries": [
+        {
+          "name": "Jamaica",
+          "shortname": "Jamaica",
+          "sovereignity": "UN member state",
+          "iso2": "JM",
+          "iso3": "JAM",
+          "numeric": "388",
+          "subdivisionCode": "ISO 3166-2:JM"
+        }
+      ]
+    },
+    {
+      "code": "JOD",
+      "number": "400",
+      "digits": 3,
+      "currency": "Jordanian dinar",
+      "countries": ["Jordan"],
+      "isoCountries": [
+        {
+          "name": "The Hashemite Kingdom of Jordan",
+          "shortname": "Jordan",
+          "sovereignity": "UN member state",
+          "iso2": "JO",
+          "iso3": "JOR",
+          "numeric": "400",
+          "subdivisionCode": "ISO 3166-2:JO"
+        }
+      ]
+    },
+    {
+      "code": "JPY",
+      "number": "392",
+      "digits": 0,
+      "currency": "Japanese yen",
+      "countries": ["Japan"],
+      "isoCountries": [
+        {
+          "name": "Japan",
+          "shortname": "Japan",
+          "sovereignity": "UN member state",
+          "iso2": "JP",
+          "iso3": "JPN",
+          "numeric": "392",
+          "subdivisionCode": "ISO 3166-2:JP"
+        }
+      ]
+    },
+    {
+      "code": "KES",
+      "number": "404",
+      "digits": 2,
+      "currency": "Kenyan shilling",
+      "countries": ["Kenya"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Kenya",
+          "shortname": "Kenya",
+          "sovereignity": "UN member state",
+          "iso2": "KE",
+          "iso3": "KEN",
+          "numeric": "404",
+          "subdivisionCode": "ISO 3166-2:KE"
+        }
+      ]
+    },
+    {
+      "code": "KGS",
+      "number": "417",
+      "digits": 2,
+      "currency": "Kyrgyzstani som",
+      "countries": ["Kyrgyzstan"],
+      "isoCountries": [
+        {
+          "name": "The Kyrgyz Republic",
+          "shortname": "Kyrgyzstan",
+          "sovereignity": "UN member state",
+          "iso2": "KG",
+          "iso3": "KGZ",
+          "numeric": "417",
+          "subdivisionCode": "ISO 3166-2:KG"
+        }
+      ]
+    },
+    {
+      "code": "KHR",
+      "number": "116",
+      "digits": 2,
+      "currency": "Cambodian riel",
+      "countries": ["Cambodia"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Cambodia",
+          "shortname": "Cambodia",
+          "sovereignity": "UN member state",
+          "iso2": "KH",
+          "iso3": "KHM",
+          "numeric": "116",
+          "subdivisionCode": "ISO 3166-2:KH"
+        }
+      ]
+    },
+    {
+      "code": "KMF",
+      "number": "174",
+      "digits": 0,
+      "currency": "Comoro franc",
+      "countries": ["Comoros"],
+      "isoCountries": [
+        {
+          "name": "The Union of the Comoros",
+          "shortname": "Comoros (the)",
+          "sovereignity": "UN member state",
+          "iso2": "KM",
+          "iso3": "COM",
+          "numeric": "174",
+          "subdivisionCode": "ISO 3166-2:KM"
+        }
+      ]
+    },
+    {
+      "code": "KPW",
+      "number": "408",
+      "digits": 2,
+      "currency": "North Korean won",
+      "countries": ["North Korea"],
+      "isoCountries": [
+        {
+          "name": "The Democratic People's Republic of Korea",
+          "shortname": "Korea (the Democratic People's Republic of)",
+          "sovereignity": "UN member state",
+          "iso2": "KP",
+          "iso3": "PRK",
+          "numeric": "408",
+          "subdivisionCode": "ISO 3166-2:KP"
+        }
+      ]
+    },
+    {
+      "code": "KRW",
+      "number": "410",
+      "digits": 0,
+      "currency": "South Korean won",
+      "countries": ["South Korea"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Korea",
+          "shortname": "Korea (the Republic of)",
+          "sovereignity": "UN member state",
+          "iso2": "KR",
+          "iso3": "KOR",
+          "numeric": "410",
+          "subdivisionCode": "ISO 3166-2:KR"
+        }
+      ]
+    },
+    {
+      "code": "KWD",
+      "number": "414",
+      "digits": 3,
+      "currency": "Kuwaiti dinar",
+      "countries": ["Kuwait"],
+      "isoCountries": [
+        {
+          "name": "The State of Kuwait",
+          "shortname": "Kuwait",
+          "sovereignity": "UN member state",
+          "iso2": "KW",
+          "iso3": "KWT",
+          "numeric": "414",
+          "subdivisionCode": "ISO 3166-2:KW"
+        }
+      ]
+    },
+    {
+      "code": "KYD",
+      "number": "136",
+      "digits": 2,
+      "currency": "Cayman Islands dollar",
+      "countries": ["Cayman Islands"],
+      "isoCountries": [
+        {
+          "name": "The Cayman Islands",
+          "shortname": "Cayman Islands (the)",
+          "sovereignity": "United Kingdom",
+          "iso2": "KY",
+          "iso3": "CYM",
+          "numeric": "136",
+          "subdivisionCode": "ISO 3166-2:KY"
+        }
+      ]
+    },
+    {
+      "code": "KZT",
+      "number": "398",
+      "digits": 2,
+      "currency": "Kazakhstani tenge",
+      "countries": ["Kazakhstan"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Kazakhstan",
+          "shortname": "Kazakhstan",
+          "sovereignity": "UN member state",
+          "iso2": "KZ",
+          "iso3": "KAZ",
+          "numeric": "398",
+          "subdivisionCode": "ISO 3166-2:KZ"
+        }
+      ]
+    },
+    {
+      "code": "LAK",
+      "number": "418",
+      "digits": 2,
+      "currency": "Lao kip",
+      "countries": ["Laos"],
+      "isoCountries": [
+        {
+          "name": "The Lao People's Democratic Republic",
+          "shortname": "Lao People's Democratic Republic (the)",
+          "sovereignity": "UN member state",
+          "iso2": "LA",
+          "iso3": "LAO",
+          "numeric": "418",
+          "subdivisionCode": "ISO 3166-2:LA"
+        }
+      ]
+    },
+    {
+      "code": "LBP",
+      "number": "422",
+      "digits": 2,
+      "currency": "Lebanese pound",
+      "countries": ["Lebanon"],
+      "isoCountries": [
+        {
+          "name": "The Lebanese Republic",
+          "shortname": "Lebanon",
+          "sovereignity": "UN member state",
+          "iso2": "LB",
+          "iso3": "LBN",
+          "numeric": "422",
+          "subdivisionCode": "ISO 3166-2:LB"
+        }
+      ]
+    },
+    {
+      "code": "LKR",
+      "number": "144",
+      "digits": 2,
+      "currency": "Sri Lankan rupee",
+      "countries": ["Sri Lanka"],
+      "isoCountries": [
+        {
+          "name": "The Democratic Socialist Republic of Sri Lanka",
+          "shortname": "Sri Lanka",
+          "sovereignity": "UN member state",
+          "iso2": "LK",
+          "iso3": "LKA",
+          "numeric": "144",
+          "subdivisionCode": "ISO 3166-2:LK"
+        }
+      ]
+    },
+    {
+      "code": "LRD",
+      "number": "430",
+      "digits": 2,
+      "currency": "Liberian dollar",
+      "countries": ["Liberia"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Liberia",
+          "shortname": "Liberia",
+          "sovereignity": "UN member state",
+          "iso2": "LR",
+          "iso3": "LBR",
+          "numeric": "430",
+          "subdivisionCode": "ISO 3166-2:LR"
+        }
+      ]
+    },
+    {
+      "code": "LSL",
+      "number": "426",
+      "digits": 2,
+      "currency": "Lesotho loti",
+      "countries": ["Lesotho"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Lesotho",
+          "shortname": "Lesotho",
+          "sovereignity": "UN member state",
+          "iso2": "LS",
+          "iso3": "LSO",
+          "numeric": "426",
+          "subdivisionCode": "ISO 3166-2:LS"
+        }
+      ]
+    },
+    {
+      "code": "LYD",
+      "number": "434",
+      "digits": 3,
+      "currency": "Libyan dinar",
+      "countries": ["Libya"],
+      "isoCountries": [
+        {
+          "name": "The State of Libya",
+          "shortname": "Libya",
+          "sovereignity": "UN member state",
+          "iso2": "LY",
+          "iso3": "LBY",
+          "numeric": "434",
+          "subdivisionCode": "ISO 3166-2:LY"
+        }
+      ]
+    },
+    {
+      "code": "MAD",
+      "number": "504",
+      "digits": 2,
+      "currency": "Moroccan dirham",
+      "countries": ["Morocco", "Western Sahara"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Morocco",
+          "shortname": "Morocco",
+          "sovereignity": "UN member state",
+          "iso2": "MA",
+          "iso3": "MAR",
+          "numeric": "504",
+          "subdivisionCode": "ISO 3166-2:MA"
+        },
+        {
+          "name": "The Sahrawi Arab Democratic Republic",
+          "shortname": "Western Sahara",
+          "sovereignity": "disputed",
+          "iso2": "EH",
+          "iso3": "ESH",
+          "numeric": "732",
+          "subdivisionCode": "ISO 3166-2:EH"
+        }
+      ]
+    },
+    {
+      "code": "MDL",
+      "number": "498",
+      "digits": 2,
+      "currency": "Moldovan leu",
+      "countries": ["Moldova"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Moldova",
+          "shortname": "Moldova (the Republic of)",
+          "sovereignity": "UN member state",
+          "iso2": "MD",
+          "iso3": "MDA",
+          "numeric": "498",
+          "subdivisionCode": "ISO 3166-2:MD"
+        }
+      ]
+    },
+    {
+      "code": "MGA",
+      "number": "969",
+      "digits": 2,
+      "currency": "Malagasy ariary",
+      "countries": ["Madagascar"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Madagascar",
+          "shortname": "Madagascar",
+          "sovereignity": "UN member state",
+          "iso2": "MG",
+          "iso3": "MDG",
+          "numeric": "450",
+          "subdivisionCode": "ISO 3166-2:MG"
+        }
+      ]
+    },
+    {
+      "code": "MKD",
+      "number": "807",
+      "digits": 2,
+      "currency": "Macedonian denar",
+      "countries": ["North Macedonia"],
+      "isoCountries": [
+        {
+          "name": "Republic of North Macedonia",
+          "shortname": "North Macedonia",
+          "sovereignity": "UN member state",
+          "iso2": "MK",
+          "iso3": "MKD",
+          "numeric": "807",
+          "subdivisionCode": "ISO 3166-2:MK"
+        }
+      ]
+    },
+    {
+      "code": "MMK",
+      "number": "104",
+      "digits": 2,
+      "currency": "Myanmar kyat",
+      "countries": ["Myanmar"],
+      "isoCountries": [
+        {
+          "name": "The Republic of the Union of Myanmar",
+          "shortname": "Myanmar",
+          "sovereignity": "UN member state",
+          "iso2": "MM",
+          "iso3": "MMR",
+          "numeric": "104",
+          "subdivisionCode": "ISO 3166-2:MM"
+        }
+      ]
+    },
+    {
+      "code": "MNT",
+      "number": "496",
+      "digits": 2,
+      "currency": "Mongolian tögrög",
+      "countries": ["Mongolia"],
+      "isoCountries": [
+        {
+          "name": "The State of Mongolia",
+          "shortname": "Mongolia",
+          "sovereignity": "UN member state",
+          "iso2": "MN",
+          "iso3": "MNG",
+          "numeric": "496",
+          "subdivisionCode": "ISO 3166-2:MN"
+        }
+      ]
+    },
+    {
+      "code": "MOP",
+      "number": "446",
+      "digits": 2,
+      "currency": "Macanese pataca",
+      "countries": ["Macau"],
+      "isoCountries": [
+        {
+          "name": "Macao Special Administrative Region of China",
+          "shortname": "Macao",
+          "sovereignity": "China",
+          "iso2": "MO",
+          "iso3": "MAC",
+          "numeric": "446",
+          "subdivisionCode": "ISO 3166-2:MO"
+        }
+      ]
+    },
+    {
+      "code": "MRU",
+      "number": "929",
+      "digits": 2,
+      "currency": "Mauritanian ouguiya",
+      "countries": ["Mauritania"],
+      "isoCountries": [
+        {
+          "name": "The Islamic Republic of Mauritania",
+          "shortname": "Mauritania",
+          "sovereignity": "UN member state",
+          "iso2": "MR",
+          "iso3": "MRT",
+          "numeric": "478",
+          "subdivisionCode": "ISO 3166-2:MR"
+        }
+      ]
+    },
+    {
+      "code": "MUR",
+      "number": "480",
+      "digits": 2,
+      "currency": "Mauritian rupee",
+      "countries": ["Mauritius"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Mauritius",
+          "shortname": "Mauritius",
+          "sovereignity": "UN member state",
+          "iso2": "MU",
+          "iso3": "MUS",
+          "numeric": "480",
+          "subdivisionCode": "ISO 3166-2:MU"
+        }
+      ]
+    },
+    {
+      "code": "MVR",
+      "number": "462",
+      "digits": 2,
+      "currency": "Maldivian rufiyaa",
+      "countries": ["Maldives"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Maldives",
+          "shortname": "Maldives",
+          "sovereignity": "UN member state",
+          "iso2": "MV",
+          "iso3": "MDV",
+          "numeric": "462",
+          "subdivisionCode": "ISO 3166-2:MV"
+        }
+      ]
+    },
+    {
+      "code": "MWK",
+      "number": "454",
+      "digits": 2,
+      "currency": "Malawian kwacha",
+      "countries": ["Malawi"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Malawi",
+          "shortname": "Malawi",
+          "sovereignity": "UN member state",
+          "iso2": "MW",
+          "iso3": "MWI",
+          "numeric": "454",
+          "subdivisionCode": "ISO 3166-2:MW"
+        }
+      ]
+    },
+    {
+      "code": "MXN",
+      "number": "484",
+      "digits": 2,
+      "currency": "Mexican peso",
+      "countries": ["Mexico"],
+      "isoCountries": [
+        {
+          "name": "The United Mexican States",
+          "shortname": "Mexico",
+          "sovereignity": "UN member state",
+          "iso2": "MX",
+          "iso3": "MEX",
+          "numeric": "484",
+          "subdivisionCode": "ISO 3166-2:MX"
+        }
+      ]
+    },
+    {
+      "code": "MXV",
+      "number": "979",
+      "digits": 2,
+      "currency": "Mexican Unidad de Inversion (UDI) (funds code)",
+      "countries": ["Mexico"],
+      "isoCountries": [
+        {
+          "name": "The United Mexican States",
+          "shortname": "Mexico",
+          "sovereignity": "UN member state",
+          "iso2": "MX",
+          "iso3": "MEX",
+          "numeric": "484",
+          "subdivisionCode": "ISO 3166-2:MX"
+        }
+      ]
+    },
+    {
+      "code": "MYR",
+      "number": "458",
+      "digits": 2,
+      "currency": "Malaysian ringgit",
+      "countries": ["Malaysia"],
+      "isoCountries": [
+        {
+          "name": "Malaysia",
+          "shortname": "Malaysia",
+          "sovereignity": "UN member state",
+          "iso2": "MY",
+          "iso3": "MYS",
+          "numeric": "458",
+          "subdivisionCode": "ISO 3166-2:MY"
+        }
+      ]
+    },
+    {
+      "code": "MZN",
+      "number": "943",
+      "digits": 2,
+      "currency": "Mozambican metical",
+      "countries": ["Mozambique"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Mozambique",
+          "shortname": "Mozambique",
+          "sovereignity": "UN member state",
+          "iso2": "MZ",
+          "iso3": "MOZ",
+          "numeric": "508",
+          "subdivisionCode": "ISO 3166-2:MZ"
+        }
+      ]
+    },
+    {
+      "code": "NAD",
+      "number": "516",
+      "digits": 2,
+      "currency": "Namibian dollar",
+      "countries": ["Namibia"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Namibia",
+          "shortname": "Namibia",
+          "sovereignity": "UN member state",
+          "iso2": "NA",
+          "iso3": "NAM",
+          "numeric": "516",
+          "subdivisionCode": "ISO 3166-2:NA"
+        }
+      ]
+    },
+    {
+      "code": "NGN",
+      "number": "566",
+      "digits": 2,
+      "currency": "Nigerian naira",
+      "countries": ["Nigeria"],
+      "isoCountries": [
+        {
+          "name": "The Federal Republic of Nigeria",
+          "shortname": "Nigeria",
+          "sovereignity": "UN member state",
+          "iso2": "NG",
+          "iso3": "NGA",
+          "numeric": "566",
+          "subdivisionCode": "ISO 3166-2:NG"
+        }
+      ]
+    },
+    {
+      "code": "NIO",
+      "number": "558",
+      "digits": 2,
+      "currency": "Nicaraguan córdoba",
+      "countries": ["Nicaragua"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Nicaragua",
+          "shortname": "Nicaragua",
+          "sovereignity": "UN member state",
+          "iso2": "NI",
+          "iso3": "NIC",
+          "numeric": "558",
+          "subdivisionCode": "ISO 3166-2:NI"
+        }
+      ]
+    },
+    {
+      "code": "NOK",
+      "number": "578",
+      "digits": 2,
+      "currency": "Norwegian krone",
+      "countries": [
+        "Norway",
+        "Svalbard and Jan Mayen (SJ)",
+        "Bouvet Island (BV)"
+      ],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Norway",
+          "shortname": "Norway",
+          "sovereignity": "UN member state",
+          "iso2": "NO",
+          "iso3": "NOR",
+          "numeric": "578",
+          "subdivisionCode": "ISO 3166-2:NO"
+        },
+        {
+          "name": "The Kingdom of Norway",
+          "shortname": "Norway",
+          "sovereignity": "UN member state",
+          "iso2": "NO",
+          "iso3": "NOR",
+          "numeric": "578",
+          "subdivisionCode": "ISO 3166-2:NO"
+        },
+        {
+          "name": "Bouvet Island",
+          "shortname": "Bouvet Island",
+          "sovereignity": "Norway",
+          "iso2": "BV",
+          "iso3": "BVT",
+          "numeric": "074",
+          "subdivisionCode": "ISO 3166-2:BV"
+        }
+      ]
+    },
+    {
+      "code": "NPR",
+      "number": "524",
+      "digits": 2,
+      "currency": "Nepalese rupee",
+      "countries": ["Nepal"],
+      "isoCountries": [
+        {
+          "name": "The Federal Democratic Republic of Nepal",
+          "shortname": "Nepal",
+          "sovereignity": "UN member state",
+          "iso2": "NP",
+          "iso3": "NPL",
+          "numeric": "524",
+          "subdivisionCode": "ISO 3166-2:NP"
+        }
+      ]
+    },
+    {
+      "code": "NZD",
+      "number": "554",
+      "digits": 2,
+      "currency": "New Zealand dollar",
+      "countries": [
+        "New Zealand",
+        "Cook Islands (CK)",
+        "Niue (NU)",
+        "Pitcairn Islands (PN; see also Pitcairn Islands dollar)",
+        "Tokelau (TK)"
+      ],
+      "isoCountries": [
+        {
+          "name": "New Zealand",
+          "shortname": "New Zealand",
+          "sovereignity": "UN member state",
+          "iso2": "NZ",
+          "iso3": "NZL",
+          "numeric": "554",
+          "subdivisionCode": "ISO 3166-2:NZ"
+        },
+        {
+          "name": "The Cook Islands",
+          "shortname": "Cook Islands (the)",
+          "sovereignity": "New Zealand",
+          "iso2": "CK",
+          "iso3": "COK",
+          "numeric": "184",
+          "subdivisionCode": "ISO 3166-2:CK"
+        },
+        {
+          "name": "Niue",
+          "shortname": "Niue",
+          "sovereignity": "New Zealand",
+          "iso2": "NU",
+          "iso3": "NIU",
+          "numeric": "570",
+          "subdivisionCode": "ISO 3166-2:NU"
+        },
+        {
+          "name": "New Zealand",
+          "shortname": "New Zealand",
+          "sovereignity": "UN member state",
+          "iso2": "NZ",
+          "iso3": "NZL",
+          "numeric": "554",
+          "subdivisionCode": "ISO 3166-2:NZ"
+        },
+        {
+          "name": "Tokelau",
+          "shortname": "Tokelau",
+          "sovereignity": "New Zealand",
+          "iso2": "TK",
+          "iso3": "TKL",
+          "numeric": "772",
+          "subdivisionCode": "ISO 3166-2:TK"
+        }
+      ]
+    },
+    {
+      "code": "OMR",
+      "number": "512",
+      "digits": 3,
+      "currency": "Omani rial",
+      "countries": ["Oman"],
+      "isoCountries": [
+        {
+          "name": "The Sultanate of Oman",
+          "shortname": "Oman",
+          "sovereignity": "UN member state",
+          "iso2": "OM",
+          "iso3": "OMN",
+          "numeric": "512",
+          "subdivisionCode": "ISO 3166-2:OM"
+        }
+      ]
+    },
+    {
+      "code": "PAB",
+      "number": "590",
+      "digits": 2,
+      "currency": "Panamanian balboa",
+      "countries": ["Panama"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Panamá",
+          "shortname": "Panama",
+          "sovereignity": "UN member state",
+          "iso2": "PA",
+          "iso3": "PAN",
+          "numeric": "591",
+          "subdivisionCode": "ISO 3166-2:PA"
+        }
+      ]
+    },
+    {
+      "code": "PEN",
+      "number": "604",
+      "digits": 2,
+      "currency": "Peruvian sol",
+      "countries": ["Peru"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Perú",
+          "shortname": "Peru",
+          "sovereignity": "UN member state",
+          "iso2": "PE",
+          "iso3": "PER",
+          "numeric": "604",
+          "subdivisionCode": "ISO 3166-2:PE"
+        }
+      ]
+    },
+    {
+      "code": "PGK",
+      "number": "598",
+      "digits": 2,
+      "currency": "Papua New Guinean kina",
+      "countries": ["Papua New Guinea"],
+      "isoCountries": [
+        {
+          "name": "The Independent State of Papua New Guinea",
+          "shortname": "Papua New Guinea",
+          "sovereignity": "UN member state",
+          "iso2": "PG",
+          "iso3": "PNG",
+          "numeric": "598",
+          "subdivisionCode": "ISO 3166-2:PG"
+        }
+      ]
+    },
+    {
+      "code": "PHP",
+      "number": "608",
+      "digits": 2,
+      "currency": "Philippine peso",
+      "countries": ["Philippines"],
+      "isoCountries": [
+        {
+          "name": "The Republic of the Philippines",
+          "shortname": "Philippines (the)",
+          "sovereignity": "UN member state",
+          "iso2": "PH",
+          "iso3": "PHL",
+          "numeric": "608",
+          "subdivisionCode": "ISO 3166-2:PH"
+        }
+      ]
+    },
+    {
+      "code": "PKR",
+      "number": "586",
+      "digits": 2,
+      "currency": "Pakistani rupee",
+      "countries": ["Pakistan"],
+      "isoCountries": [
+        {
+          "name": "The Islamic Republic of Pakistan",
+          "shortname": "Pakistan",
+          "sovereignity": "UN member state",
+          "iso2": "PK",
+          "iso3": "PAK",
+          "numeric": "586",
+          "subdivisionCode": "ISO 3166-2:PK"
+        }
+      ]
+    },
+    {
+      "code": "PLN",
+      "number": "985",
+      "digits": 2,
+      "currency": "Polish złoty",
+      "countries": ["Poland"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Poland",
+          "shortname": "Poland",
+          "sovereignity": "UN member state",
+          "iso2": "PL",
+          "iso3": "POL",
+          "numeric": "616",
+          "subdivisionCode": "ISO 3166-2:PL"
+        }
+      ]
+    },
+    {
+      "code": "PYG",
+      "number": "600",
+      "digits": 0,
+      "currency": "Paraguayan guaraní",
+      "countries": ["Paraguay"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Paraguay",
+          "shortname": "Paraguay",
+          "sovereignity": "UN member state",
+          "iso2": "PY",
+          "iso3": "PRY",
+          "numeric": "600",
+          "subdivisionCode": "ISO 3166-2:PY"
+        }
+      ]
+    },
+    {
+      "code": "QAR",
+      "number": "634",
+      "digits": 2,
+      "currency": "Qatari riyal",
+      "countries": ["Qatar"],
+      "isoCountries": [
+        {
+          "name": "The State of Qatar",
+          "shortname": "Qatar",
+          "sovereignity": "UN member state",
+          "iso2": "QA",
+          "iso3": "QAT",
+          "numeric": "634",
+          "subdivisionCode": "ISO 3166-2:QA"
+        }
+      ]
+    },
+    {
+      "code": "RON",
+      "number": "946",
+      "digits": 2,
+      "currency": "Romanian leu",
+      "countries": ["Romania"],
+      "isoCountries": [
+        {
+          "name": "Romania",
+          "shortname": "Romania",
+          "sovereignity": "UN member state",
+          "iso2": "RO",
+          "iso3": "ROU",
+          "numeric": "642",
+          "subdivisionCode": "ISO 3166-2:RO"
+        }
+      ]
+    },
+    {
+      "code": "RSD",
+      "number": "941",
+      "digits": 2,
+      "currency": "Serbian dinar",
+      "countries": ["Serbia"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Serbia",
+          "shortname": "Serbia",
+          "sovereignity": "UN member state",
+          "iso2": "RS",
+          "iso3": "SRB",
+          "numeric": "688",
+          "subdivisionCode": "ISO 3166-2:RS"
+        }
+      ]
+    },
+    {
+      "code": "RUB",
+      "number": "643",
+      "digits": 2,
+      "currency": "Russian ruble",
+      "countries": ["Russia"],
+      "isoCountries": [
+        {
+          "name": "The Russian Federation",
+          "shortname": "Russian Federation (the)",
+          "sovereignity": "UN member state",
+          "iso2": "RU",
+          "iso3": "RUS",
+          "numeric": "643",
+          "subdivisionCode": "ISO 3166-2:RU"
+        }
+      ]
+    },
+    {
+      "code": "RWF",
+      "number": "646",
+      "digits": 0,
+      "currency": "Rwandan franc",
+      "countries": ["Rwanda"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Rwanda",
+          "shortname": "Rwanda",
+          "sovereignity": "UN member state",
+          "iso2": "RW",
+          "iso3": "RWA",
+          "numeric": "646",
+          "subdivisionCode": "ISO 3166-2:RW"
+        }
+      ]
+    },
+    {
+      "code": "SAR",
+      "number": "682",
+      "digits": 2,
+      "currency": "Saudi riyal",
+      "countries": ["Saudi Arabia"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Saudi Arabia",
+          "shortname": "Saudi Arabia",
+          "sovereignity": "UN member state",
+          "iso2": "SA",
+          "iso3": "SAU",
+          "numeric": "682",
+          "subdivisionCode": "ISO 3166-2:SA"
+        }
+      ]
+    },
+    {
+      "code": "SBD",
+      "number": "090",
+      "digits": 2,
+      "currency": "Solomon Islands dollar",
+      "countries": ["Solomon Islands"],
+      "isoCountries": [
+        {
+          "name": "The Solomon Islands",
+          "shortname": "Solomon Islands",
+          "sovereignity": "UN member state",
+          "iso2": "SB",
+          "iso3": "SLB",
+          "numeric": "090",
+          "subdivisionCode": "ISO 3166-2:SB"
+        }
+      ]
+    },
+    {
+      "code": "SCR",
+      "number": "690",
+      "digits": 2,
+      "currency": "Seychelles rupee",
+      "countries": ["Seychelles"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Seychelles",
+          "shortname": "Seychelles",
+          "sovereignity": "UN member state",
+          "iso2": "SC",
+          "iso3": "SYC",
+          "numeric": "690",
+          "subdivisionCode": "ISO 3166-2:SC"
+        }
+      ]
+    },
+    {
+      "code": "SDG",
+      "number": "938",
+      "digits": 2,
+      "currency": "Sudanese pound",
+      "countries": ["Sudan"],
+      "isoCountries": [
+        {
+          "name": "The Republic of the Sudan",
+          "shortname": "Sudan (the)",
+          "sovereignity": "UN member state",
+          "iso2": "SD",
+          "iso3": "SDN",
+          "numeric": "729",
+          "subdivisionCode": "ISO 3166-2:SD"
+        }
+      ]
+    },
+    {
+      "code": "SEK",
+      "number": "752",
+      "digits": 2,
+      "currency": "Swedish krona/kronor",
+      "countries": ["Sweden"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Sweden",
+          "shortname": "Sweden",
+          "sovereignity": "UN member state",
+          "iso2": "SE",
+          "iso3": "SWE",
+          "numeric": "752",
+          "subdivisionCode": "ISO 3166-2:SE"
+        }
+      ]
+    },
+    {
+      "code": "SGD",
+      "number": "702",
+      "digits": 2,
+      "currency": "Singapore dollar",
+      "countries": ["Singapore"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Singapore",
+          "shortname": "Singapore",
+          "sovereignity": "UN member state",
+          "iso2": "SG",
+          "iso3": "SGP",
+          "numeric": "702",
+          "subdivisionCode": "ISO 3166-2:SG"
+        }
+      ]
+    },
+    {
+      "code": "SHP",
+      "number": "654",
+      "digits": 2,
+      "currency": "Saint Helena pound",
+      "countries": [
+        "Saint Helena (SH-SH)",
+        "Ascension Island (SH-AC)",
+        "Tristan da Cunha"
+      ],
+      "isoCountries": [
+        {
+          "name": "Saint Helena, Ascension and Tristan da Cunha",
+          "shortname": "Saint Helena Ascension Island Tristan da Cunha",
+          "sovereignity": "United Kingdom",
+          "iso2": "SH",
+          "iso3": "SHN",
+          "numeric": "654",
+          "subdivisionCode": "ISO 3166-2:SH"
+        },
+        {
+          "name": "Saint Helena, Ascension and Tristan da Cunha",
+          "shortname": "Saint Helena Ascension Island Tristan da Cunha",
+          "sovereignity": "United Kingdom",
+          "iso2": "SH",
+          "iso3": "SHN",
+          "numeric": "654",
+          "subdivisionCode": "ISO 3166-2:SH"
+        },
+        {
+          "name": "Saint Helena, Ascension and Tristan da Cunha",
+          "shortname": "Saint Helena Ascension Island Tristan da Cunha",
+          "sovereignity": "United Kingdom",
+          "iso2": "SH",
+          "iso3": "SHN",
+          "numeric": "654",
+          "subdivisionCode": "ISO 3166-2:SH"
+        }
+      ]
+    },
+    {
+      "code": "SLL",
+      "number": "694",
+      "digits": 2,
+      "currency": "Sierra Leonean leone",
+      "countries": ["Sierra Leone"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Sierra Leone",
+          "shortname": "Sierra Leone",
+          "sovereignity": "UN member state",
+          "iso2": "SL",
+          "iso3": "SLE",
+          "numeric": "694",
+          "subdivisionCode": "ISO 3166-2:SL"
+        }
+      ]
+    },
+    {
+      "code": "SOS",
+      "number": "706",
+      "digits": 2,
+      "currency": "Somali shilling",
+      "countries": ["Somalia"],
+      "isoCountries": [
+        {
+          "name": "The Federal Republic of Somalia",
+          "shortname": "Somalia",
+          "sovereignity": "UN member state",
+          "iso2": "SO",
+          "iso3": "SOM",
+          "numeric": "706",
+          "subdivisionCode": "ISO 3166-2:SO"
+        }
+      ]
+    },
+    {
+      "code": "SRD",
+      "number": "968",
+      "digits": 2,
+      "currency": "Surinamese dollar",
+      "countries": ["Suriname"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Suriname",
+          "shortname": "Suriname",
+          "sovereignity": "UN member state",
+          "iso2": "SR",
+          "iso3": "SUR",
+          "numeric": "740",
+          "subdivisionCode": "ISO 3166-2:SR"
+        }
+      ]
+    },
+    {
+      "code": "SSP",
+      "number": "728",
+      "digits": 2,
+      "currency": "South Sudanese pound",
+      "countries": ["South Sudan"],
+      "isoCountries": [
+        {
+          "name": "The Republic of South Sudan",
+          "shortname": "South Sudan",
+          "sovereignity": "UN member state",
+          "iso2": "SS",
+          "iso3": "SSD",
+          "numeric": "728",
+          "subdivisionCode": "ISO 3166-2:SS"
+        }
+      ]
+    },
+    {
+      "code": "STN",
+      "number": "930",
+      "digits": 2,
+      "currency": "São Tomé and Príncipe dobra",
+      "countries": ["São Tomé and Príncipe"],
+      "isoCountries": [
+        {
+          "name": "The Democratic Republic of São Tomé and Príncipe",
+          "shortname": "Sao Tome and Principe",
+          "sovereignity": "UN member state",
+          "iso2": "ST",
+          "iso3": "STP",
+          "numeric": "678",
+          "subdivisionCode": "ISO 3166-2:ST"
+        }
+      ]
+    },
+    {
+      "code": "SVC",
+      "number": "222",
+      "digits": 2,
+      "currency": "Salvadoran colón",
+      "countries": ["El Salvador"],
+      "isoCountries": [
+        {
+          "name": "The Republic of El Salvador",
+          "shortname": "El Salvador",
+          "sovereignity": "UN member state",
+          "iso2": "SV",
+          "iso3": "SLV",
+          "numeric": "222",
+          "subdivisionCode": "ISO 3166-2:SV"
+        }
+      ]
+    },
+    {
+      "code": "SYP",
+      "number": "760",
+      "digits": 2,
+      "currency": "Syrian pound",
+      "countries": ["Syria"],
+      "isoCountries": [
+        {
+          "name": "The Syrian Arab Republic",
+          "shortname": "Syrian Arab Republic (the)",
+          "sovereignity": "UN member state",
+          "iso2": "SY",
+          "iso3": "SYR",
+          "numeric": "760",
+          "subdivisionCode": "ISO 3166-2:SY"
+        }
+      ]
+    },
+    {
+      "code": "SZL",
+      "number": "748",
+      "digits": 2,
+      "currency": "Swazi lilangeni",
+      "countries": ["Swaziland"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Eswatini",
+          "shortname": "Eswatini",
+          "sovereignity": "UN member state",
+          "iso2": "SZ",
+          "iso3": "SWZ",
+          "numeric": "748",
+          "subdivisionCode": "ISO 3166-2:SZ"
+        }
+      ]
+    },
+    {
+      "code": "THB",
+      "number": "764",
+      "digits": 2,
+      "currency": "Thai baht",
+      "countries": ["Thailand"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Thailand",
+          "shortname": "Thailand",
+          "sovereignity": "UN member state",
+          "iso2": "TH",
+          "iso3": "THA",
+          "numeric": "764",
+          "subdivisionCode": "ISO 3166-2:TH"
+        }
+      ]
+    },
+    {
+      "code": "TJS",
+      "number": "972",
+      "digits": 2,
+      "currency": "Tajikistani somoni",
+      "countries": ["Tajikistan"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Tajikistan",
+          "shortname": "Tajikistan",
+          "sovereignity": "UN member state",
+          "iso2": "TJ",
+          "iso3": "TJK",
+          "numeric": "762",
+          "subdivisionCode": "ISO 3166-2:TJ"
+        }
+      ]
+    },
+    {
+      "code": "TMT",
+      "number": "934",
+      "digits": 2,
+      "currency": "Turkmenistan manat",
+      "countries": ["Turkmenistan"],
+      "isoCountries": [
+        {
+          "name": "Turkmenistan",
+          "shortname": "Turkmenistan",
+          "sovereignity": "UN member state",
+          "iso2": "TM",
+          "iso3": "TKM",
+          "numeric": "795",
+          "subdivisionCode": "ISO 3166-2:TM"
+        }
+      ]
+    },
+    {
+      "code": "TND",
+      "number": "788",
+      "digits": 3,
+      "currency": "Tunisian dinar",
+      "countries": ["Tunisia"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Tunisia",
+          "shortname": "Tunisia",
+          "sovereignity": "UN member state",
+          "iso2": "TN",
+          "iso3": "TUN",
+          "numeric": "788",
+          "subdivisionCode": "ISO 3166-2:TN"
+        }
+      ]
+    },
+    {
+      "code": "TOP",
+      "number": "776",
+      "digits": 2,
+      "currency": "Tongan paʻanga",
+      "countries": ["Tonga"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Tonga",
+          "shortname": "Tonga",
+          "sovereignity": "UN member state",
+          "iso2": "TO",
+          "iso3": "TON",
+          "numeric": "776",
+          "subdivisionCode": "ISO 3166-2:TO"
+        }
+      ]
+    },
+    {
+      "code": "TRY",
+      "number": "949",
+      "digits": 2,
+      "currency": "Turkish lira",
+      "countries": ["Turkey", "Northern Cyprus"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Turkey",
+          "shortname": "Turkey",
+          "sovereignity": "UN member state",
+          "iso2": "TR",
+          "iso3": "TUR",
+          "numeric": "792",
+          "subdivisionCode": "ISO 3166-2:TR"
+        }
+      ]
+    },
+    {
+      "code": "TTD",
+      "number": "780",
+      "digits": 2,
+      "currency": "Trinidad and Tobago dollar",
+      "countries": ["Trinidad and Tobago"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Trinidad and Tobago",
+          "shortname": "Trinidad and Tobago",
+          "sovereignity": "UN member state",
+          "iso2": "TT",
+          "iso3": "TTO",
+          "numeric": "780",
+          "subdivisionCode": "ISO 3166-2:TT"
+        }
+      ]
+    },
+    {
+      "code": "TWD",
+      "number": "901",
+      "digits": 2,
+      "currency": "New Taiwan dollar",
+      "countries": ["Taiwan"],
+      "isoCountries": [
+        {
+          "name": "The Republic of China",
+          "shortname": "Taiwan (Province of China)",
+          "sovereignity": "disputed",
+          "iso2": "TW",
+          "iso3": "TWN",
+          "numeric": "158",
+          "subdivisionCode": "ISO 3166-2:TW"
+        }
+      ]
+    },
+    {
+      "code": "TZS",
+      "number": "834",
+      "digits": 2,
+      "currency": "Tanzanian shilling",
+      "countries": ["Tanzania"],
+      "isoCountries": [
+        {
+          "name": "The United Republic of Tanzania",
+          "shortname": "Tanzania, the United Republic of",
+          "sovereignity": "UN member state",
+          "iso2": "TZ",
+          "iso3": "TZA",
+          "numeric": "834",
+          "subdivisionCode": "ISO 3166-2:TZ"
+        }
+      ]
+    },
+    {
+      "code": "UAH",
+      "number": "980",
+      "digits": 2,
+      "currency": "Ukrainian hryvnia",
+      "countries": ["Ukraine"],
+      "isoCountries": [
+        {
+          "name": "Ukraine",
+          "shortname": "Ukraine",
+          "sovereignity": "UN member state",
+          "iso2": "UA",
+          "iso3": "UKR",
+          "numeric": "804",
+          "subdivisionCode": "ISO 3166-2:UA"
+        }
+      ]
+    },
+    {
+      "code": "UGX",
+      "number": "800",
+      "digits": 0,
+      "currency": "Ugandan shilling",
+      "countries": ["Uganda"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Uganda",
+          "shortname": "Uganda",
+          "sovereignity": "UN member state",
+          "iso2": "UG",
+          "iso3": "UGA",
+          "numeric": "800",
+          "subdivisionCode": "ISO 3166-2:UG"
+        }
+      ]
+    },
+    {
+      "code": "USD",
+      "number": "840",
+      "digits": 2,
+      "currency": "United States dollar",
+      "countries": [
+        "United States",
+        "American Samoa (AS)",
+        "Barbados (BB) (as well as Barbados Dollar)",
+        "Bermuda (BM) (as well as Bermudian Dollar)",
+        "British Indian Ocean Territory (IO) (also uses GBP)",
+        "British Virgin Islands (VG)",
+        "Caribbean Netherlands (BQ  Bonaire",
+        "Sint Eustatius and Saba)",
+        "Ecuador (EC)",
+        "El Salvador (SV)",
+        "Guam (GU)",
+        "Haiti (HT)",
+        "Marshall Islands (MH)",
+        "Federated States of Micronesia (FM)",
+        "Northern Mariana Islands (MP)",
+        "Palau (PW)",
+        "Panama (PA) (as well as Panamanian Balboa)",
+        "Puerto Rico (PR)",
+        "Timor-Leste (TL)",
+        "Turks and Caicos Islands (TC)",
+        "U.S. Virgin Islands (VI)",
+        "United States Minor Outlying Islands (UM)  Cambodia also uses the USD officially."
+      ],
+      "isoCountries": [
+        {
+          "name": "The United States of America",
+          "shortname": "United States of America (the)",
+          "sovereignity": "UN member state",
+          "iso2": "US",
+          "iso3": "USA",
+          "numeric": "840",
+          "subdivisionCode": "ISO 3166-2:US"
+        },
+        {
+          "name": "The Territory of American Samoa",
+          "shortname": "American Samoa",
+          "sovereignity": "United States",
+          "iso2": "AS",
+          "iso3": "ASM",
+          "numeric": "016",
+          "subdivisionCode": "ISO 3166-2:AS"
+        },
+        {
+          "name": "Barbados",
+          "shortname": "Barbados",
+          "sovereignity": "UN member state",
+          "iso2": "BB",
+          "iso3": "BRB",
+          "numeric": "052",
+          "subdivisionCode": "ISO 3166-2:BB"
+        },
+        {
+          "name": "Bermuda",
+          "shortname": "Bermuda",
+          "sovereignity": "United Kingdom",
+          "iso2": "BM",
+          "iso3": "BMU",
+          "numeric": "060",
+          "subdivisionCode": "ISO 3166-2:BM"
+        },
+        {
+          "name": "The British Indian Ocean Territory",
+          "shortname": "British Indian Ocean Territory (the)",
+          "sovereignity": "United Kingdom",
+          "iso2": "IO",
+          "iso3": "IOT",
+          "numeric": "086",
+          "subdivisionCode": "ISO 3166-2:IO"
+        },
+        {
+          "name": "The United States of America",
+          "shortname": "United States of America (the)",
+          "sovereignity": "UN member state",
+          "iso2": "US",
+          "iso3": "USA",
+          "numeric": "840",
+          "subdivisionCode": "ISO 3166-2:US"
+        },
+        {
+          "name": "The United States of America",
+          "shortname": "United States of America (the)",
+          "sovereignity": "UN member state",
+          "iso2": "US",
+          "iso3": "USA",
+          "numeric": "840",
+          "subdivisionCode": "ISO 3166-2:US"
+        },
+        {
+          "name": "The United States of America",
+          "shortname": "United States of America (the)",
+          "sovereignity": "UN member state",
+          "iso2": "US",
+          "iso3": "USA",
+          "numeric": "840",
+          "subdivisionCode": "ISO 3166-2:US"
+        },
+        {
+          "name": "The Republic of Ecuador",
+          "shortname": "Ecuador",
+          "sovereignity": "UN member state",
+          "iso2": "EC",
+          "iso3": "ECU",
+          "numeric": "218",
+          "subdivisionCode": "ISO 3166-2:EC"
+        },
+        {
+          "name": "The Republic of El Salvador",
+          "shortname": "El Salvador",
+          "sovereignity": "UN member state",
+          "iso2": "SV",
+          "iso3": "SLV",
+          "numeric": "222",
+          "subdivisionCode": "ISO 3166-2:SV"
+        },
+        {
+          "name": "The Territory of Guam",
+          "shortname": "Guam",
+          "sovereignity": "United States",
+          "iso2": "GU",
+          "iso3": "GUM",
+          "numeric": "316",
+          "subdivisionCode": "ISO 3166-2:GU"
+        },
+        {
+          "name": "The Republic of Haiti",
+          "shortname": "Haiti",
+          "sovereignity": "UN member state",
+          "iso2": "HT",
+          "iso3": "HTI",
+          "numeric": "332",
+          "subdivisionCode": "ISO 3166-2:HT"
+        },
+        {
+          "name": "The Republic of the Marshall Islands",
+          "shortname": "Marshall Islands (the)",
+          "sovereignity": "UN member state",
+          "iso2": "MH",
+          "iso3": "MHL",
+          "numeric": "584",
+          "subdivisionCode": "ISO 3166-2:MH"
+        },
+        {
+          "name": "The United States of America",
+          "shortname": "United States of America (the)",
+          "sovereignity": "UN member state",
+          "iso2": "US",
+          "iso3": "USA",
+          "numeric": "840",
+          "subdivisionCode": "ISO 3166-2:US"
+        },
+        {
+          "name": "The Commonwealth of the Northern Mariana Islands",
+          "shortname": "Northern Mariana Islands (the)",
+          "sovereignity": "United States",
+          "iso2": "MP",
+          "iso3": "MNP",
+          "numeric": "580",
+          "subdivisionCode": "ISO 3166-2:MP"
+        },
+        {
+          "name": "The Republic of Palau",
+          "shortname": "Palau",
+          "sovereignity": "UN member state",
+          "iso2": "PW",
+          "iso3": "PLW",
+          "numeric": "585",
+          "subdivisionCode": "ISO 3166-2:PW"
+        },
+        {
+          "name": "The Republic of Panamá",
+          "shortname": "Panama",
+          "sovereignity": "UN member state",
+          "iso2": "PA",
+          "iso3": "PAN",
+          "numeric": "591",
+          "subdivisionCode": "ISO 3166-2:PA"
+        },
+        {
+          "name": "The Commonwealth of Puerto Rico",
+          "shortname": "Puerto Rico",
+          "sovereignity": "United States",
+          "iso2": "PR",
+          "iso3": "PRI",
+          "numeric": "630",
+          "subdivisionCode": "ISO 3166-2:PR"
+        },
+        {
+          "name": "The Democratic Republic of Timor-Leste",
+          "shortname": "Timor-Leste",
+          "sovereignity": "UN member state",
+          "iso2": "TL",
+          "iso3": "TLS",
+          "numeric": "626",
+          "subdivisionCode": "ISO 3166-2:TL"
+        },
+        {
+          "name": "The Turks and Caicos Islands",
+          "shortname": "Turks and Caicos Islands (the)",
+          "sovereignity": "United Kingdom",
+          "iso2": "TC",
+          "iso3": "TCA",
+          "numeric": "796",
+          "subdivisionCode": "ISO 3166-2:TC"
+        },
+        {
+          "name": "The United States of America",
+          "shortname": "United States of America (the)",
+          "sovereignity": "UN member state",
+          "iso2": "US",
+          "iso3": "USA",
+          "numeric": "840",
+          "subdivisionCode": "ISO 3166-2:US"
+        },
+        {
+          "name": "The United States of America",
+          "shortname": "United States of America (the)",
+          "sovereignity": "UN member state",
+          "iso2": "US",
+          "iso3": "USA",
+          "numeric": "840",
+          "subdivisionCode": "ISO 3166-2:US"
+        }
+      ]
+    },
+    {
+      "code": "USN",
+      "number": "997",
+      "digits": 2,
+      "currency": "United States dollar (next day) (funds code)",
+      "countries": ["United States"],
+      "isoCountries": [
+        {
+          "name": "The United States of America",
+          "shortname": "United States of America (the)",
+          "sovereignity": "UN member state",
+          "iso2": "US",
+          "iso3": "USA",
+          "numeric": "840",
+          "subdivisionCode": "ISO 3166-2:US"
+        }
+      ]
+    },
+    {
+      "code": "UYI",
+      "number": "940",
+      "digits": 0,
+      "currency": "Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)",
+      "countries": ["Uruguay"],
+      "isoCountries": [
+        {
+          "name": "The Oriental Republic of Uruguay",
+          "shortname": "Uruguay",
+          "sovereignity": "UN member state",
+          "iso2": "UY",
+          "iso3": "URY",
+          "numeric": "858",
+          "subdivisionCode": "ISO 3166-2:UY"
+        }
+      ]
+    },
+    {
+      "code": "UYU",
+      "number": "858",
+      "digits": 2,
+      "currency": "Uruguayan peso",
+      "countries": ["Uruguay"],
+      "isoCountries": [
+        {
+          "name": "The Oriental Republic of Uruguay",
+          "shortname": "Uruguay",
+          "sovereignity": "UN member state",
+          "iso2": "UY",
+          "iso3": "URY",
+          "numeric": "858",
+          "subdivisionCode": "ISO 3166-2:UY"
+        }
+      ]
+    },
+    {
+      "code": "UYW",
+      "number": "927",
+      "digits": 4,
+      "currency": "Unidad previsional",
+      "countries": ["Uruguay"],
+      "isoCountries": [
+        {
+          "name": "The Oriental Republic of Uruguay",
+          "shortname": "Uruguay",
+          "sovereignity": "UN member state",
+          "iso2": "UY",
+          "iso3": "URY",
+          "numeric": "858",
+          "subdivisionCode": "ISO 3166-2:UY"
+        }
+      ]
+    },
+    {
+      "code": "UZS",
+      "number": "860",
+      "digits": 2,
+      "currency": "Uzbekistan som",
+      "countries": ["Uzbekistan"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Uzbekistan",
+          "shortname": "Uzbekistan",
+          "sovereignity": "UN member state",
+          "iso2": "UZ",
+          "iso3": "UZB",
+          "numeric": "860",
+          "subdivisionCode": "ISO 3166-2:UZ"
+        }
+      ]
+    },
+    {
+      "code": "VES",
+      "number": "928",
+      "digits": 2,
+      "currency": "Venezuelan bolívar soberano",
+      "countries": ["Venezuela"],
+      "isoCountries": [
+        {
+          "name": "The Bolivarian Republic of Venezuela",
+          "shortname": "Venezuela (Bolivarian Republic of)",
+          "sovereignity": "UN member state",
+          "iso2": "VE",
+          "iso3": "VEN",
+          "numeric": "862",
+          "subdivisionCode": "ISO 3166-2:VE"
+        }
+      ]
+    },
+    {
+      "code": "VND",
+      "number": "704",
+      "digits": 0,
+      "currency": "Vietnamese đồng",
+      "countries": ["Vietnam"],
+      "isoCountries": [
+        {
+          "name": "The Socialist Republic of Viet Nam",
+          "shortname": "Viet Nam",
+          "sovereignity": "UN member state",
+          "iso2": "VN",
+          "iso3": "VNM",
+          "numeric": "704",
+          "subdivisionCode": "ISO 3166-2:VN"
+        }
+      ]
+    },
+    {
+      "code": "VUV",
+      "number": "548",
+      "digits": 0,
+      "currency": "Vanuatu vatu",
+      "countries": ["Vanuatu"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Vanuatu",
+          "shortname": "Vanuatu",
+          "sovereignity": "UN member state",
+          "iso2": "VU",
+          "iso3": "VUT",
+          "numeric": "548",
+          "subdivisionCode": "ISO 3166-2:VU"
+        }
+      ]
+    },
+    {
+      "code": "WST",
+      "number": "882",
+      "digits": 2,
+      "currency": "Samoan tala",
+      "countries": ["Samoa"],
+      "isoCountries": [
+        {
+          "name": "The Independent State of Samoa",
+          "shortname": "Samoa",
+          "sovereignity": "UN member state",
+          "iso2": "WS",
+          "iso3": "WSM",
+          "numeric": "882",
+          "subdivisionCode": "ISO 3166-2:WS"
+        }
+      ]
+    },
+    {
+      "code": "XAF",
+      "number": "950",
+      "digits": 0,
+      "currency": "CFA franc BEAC",
+      "countries": [
+        "Cameroon (CM)",
+        "Central African Republic (CF)",
+        "Republic of the Congo (CG)",
+        "Chad (TD)",
+        "Equatorial Guinea (GQ)",
+        "Gabon (GA)"
+      ],
+      "isoCountries": [
+        {
+          "name": "The Republic of Cameroon",
+          "shortname": "Cameroon",
+          "sovereignity": "UN member state",
+          "iso2": "CM",
+          "iso3": "CMR",
+          "numeric": "120",
+          "subdivisionCode": "ISO 3166-2:CM"
+        },
+        {
+          "name": "The Central African Republic",
+          "shortname": "Central African Republic (the)",
+          "sovereignity": "UN member state",
+          "iso2": "CF",
+          "iso3": "CAF",
+          "numeric": "140",
+          "subdivisionCode": "ISO 3166-2:CF"
+        },
+        {
+          "name": "The Republic of Chad",
+          "shortname": "Chad",
+          "sovereignity": "UN member state",
+          "iso2": "TD",
+          "iso3": "TCD",
+          "numeric": "148",
+          "subdivisionCode": "ISO 3166-2:TD"
+        },
+        {
+          "name": "The Republic of Equatorial Guinea",
+          "shortname": "Equatorial Guinea",
+          "sovereignity": "UN member state",
+          "iso2": "GQ",
+          "iso3": "GNQ",
+          "numeric": "226",
+          "subdivisionCode": "ISO 3166-2:GQ"
+        },
+        {
+          "name": "The Gabonese Republic",
+          "shortname": "Gabon",
+          "sovereignity": "UN member state",
+          "iso2": "GA",
+          "iso3": "GAB",
+          "numeric": "266",
+          "subdivisionCode": "ISO 3166-2:GA"
+        },
+        {
+          "name": "The Democratic Republic of the Congo",
+          "shortname": "Congo (the Democratic Republic of the)",
+          "sovereignity": "UN member state",
+          "iso2": "CD",
+          "iso3": "COD",
+          "numeric": "180",
+          "subdivisionCode": "ISO 3166-2:CD"
+        }
+      ]
+    },
+    {
+      "code": "XAG",
+      "number": "961",
+      "digits": null,
+      "currency": "Silver (one troy ounce)",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XAU",
+      "number": "959",
+      "digits": null,
+      "currency": "Gold (one troy ounce)",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XBA",
+      "number": "955",
+      "digits": null,
+      "currency": "European Composite Unit (EURCO) (bond market unit)",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XBB",
+      "number": "956",
+      "digits": null,
+      "currency": "European Monetary Unit (E.M.U.-6) (bond market unit)",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XBC",
+      "number": "957",
+      "digits": null,
+      "currency": "European Unit of Account 9 (E.U.A.-9) (bond market unit)",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XBD",
+      "number": "958",
+      "digits": null,
+      "currency": "European Unit of Account 17 (E.U.A.-17) (bond market unit)",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XCD",
+      "number": "951",
+      "digits": 2,
+      "currency": "East Caribbean dollar",
+      "countries": [
+        "Anguilla (AI)",
+        "Antigua and Barbuda (AG)",
+        "Dominica (DM)",
+        "Grenada (GD)",
+        "Montserrat (MS)",
+        "Saint Kitts and Nevis (KN)",
+        "Saint Lucia (LC)",
+        "Saint Vincent and the Grenadines (VC)"
+      ],
+      "isoCountries": [
+        {
+          "name": "Anguilla",
+          "shortname": "Anguilla",
+          "sovereignity": "United Kingdom",
+          "iso2": "AI",
+          "iso3": "AIA",
+          "numeric": "660",
+          "subdivisionCode": "ISO 3166-2:AI"
+        },
+        {
+          "name": "Antigua and Barbuda",
+          "shortname": "Antigua and Barbuda",
+          "sovereignity": "UN member state",
+          "iso2": "AG",
+          "iso3": "ATG",
+          "numeric": "028",
+          "subdivisionCode": "ISO 3166-2:AG"
+        },
+        {
+          "name": "The Commonwealth of Dominica",
+          "shortname": "Dominica",
+          "sovereignity": "UN member state",
+          "iso2": "DM",
+          "iso3": "DMA",
+          "numeric": "212",
+          "subdivisionCode": "ISO 3166-2:DM"
+        },
+        {
+          "name": "Grenada",
+          "shortname": "Grenada",
+          "sovereignity": "UN member state",
+          "iso2": "GD",
+          "iso3": "GRD",
+          "numeric": "308",
+          "subdivisionCode": "ISO 3166-2:GD"
+        },
+        {
+          "name": "Montserrat",
+          "shortname": "Montserrat",
+          "sovereignity": "United Kingdom",
+          "iso2": "MS",
+          "iso3": "MSR",
+          "numeric": "500",
+          "subdivisionCode": "ISO 3166-2:MS"
+        },
+        {
+          "name": "Saint Kitts and Nevis",
+          "shortname": "Saint Kitts and Nevis",
+          "sovereignity": "UN member state",
+          "iso2": "KN",
+          "iso3": "KNA",
+          "numeric": "659",
+          "subdivisionCode": "ISO 3166-2:KN"
+        },
+        {
+          "name": "Saint Lucia",
+          "shortname": "Saint Lucia",
+          "sovereignity": "UN member state",
+          "iso2": "LC",
+          "iso3": "LCA",
+          "numeric": "662",
+          "subdivisionCode": "ISO 3166-2:LC"
+        },
+        {
+          "name": "Saint Vincent and the Grenadines",
+          "shortname": "Saint Vincent and the Grenadines",
+          "sovereignity": "UN member state",
+          "iso2": "VC",
+          "iso3": "VCT",
+          "numeric": "670",
+          "subdivisionCode": "ISO 3166-2:VC"
+        }
+      ]
+    },
+    {
+      "code": "XDR",
+      "number": "960",
+      "digits": null,
+      "currency": "Special drawing rights",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XOF",
+      "number": "952",
+      "digits": 0,
+      "currency": "CFA franc BCEAO",
+      "countries": [
+        "Benin (BJ)",
+        "Burkina Faso (BF)",
+        "Côte dIvoire (CI)",
+        "Guinea-Bissau (GW)",
+        "Mali (ML)",
+        "Niger (NE)",
+        "Senegal (SN)",
+        "Togo (TG)"
+      ],
+      "isoCountries": [
+        {
+          "name": "The Republic of Benin",
+          "shortname": "Benin",
+          "sovereignity": "UN member state",
+          "iso2": "BJ",
+          "iso3": "BEN",
+          "numeric": "204",
+          "subdivisionCode": "ISO 3166-2:BJ"
+        },
+        {
+          "name": "Burkina Faso",
+          "shortname": "Burkina Faso",
+          "sovereignity": "UN member state",
+          "iso2": "BF",
+          "iso3": "BFA",
+          "numeric": "854",
+          "subdivisionCode": "ISO 3166-2:BF"
+        },
+        {
+          "name": "The Republic of Guinea-Bissau",
+          "shortname": "Guinea-Bissau",
+          "sovereignity": "UN member state",
+          "iso2": "GW",
+          "iso3": "GNB",
+          "numeric": "624",
+          "subdivisionCode": "ISO 3166-2:GW"
+        },
+        {
+          "name": "The Republic of Mali",
+          "shortname": "Mali",
+          "sovereignity": "UN member state",
+          "iso2": "ML",
+          "iso3": "MLI",
+          "numeric": "466",
+          "subdivisionCode": "ISO 3166-2:ML"
+        },
+        {
+          "name": "The Republic of the Niger",
+          "shortname": "Niger (the)",
+          "sovereignity": "UN member state",
+          "iso2": "NE",
+          "iso3": "NER",
+          "numeric": "562",
+          "subdivisionCode": "ISO 3166-2:NE"
+        },
+        {
+          "name": "The Republic of Senegal",
+          "shortname": "Senegal",
+          "sovereignity": "UN member state",
+          "iso2": "SN",
+          "iso3": "SEN",
+          "numeric": "686",
+          "subdivisionCode": "ISO 3166-2:SN"
+        },
+        {
+          "name": "The Togolese Republic",
+          "shortname": "Togo",
+          "sovereignity": "UN member state",
+          "iso2": "TG",
+          "iso3": "TGO",
+          "numeric": "768",
+          "subdivisionCode": "ISO 3166-2:TG"
+        },
+        {
+          "name": "The Republic of Côte d'Ivoire",
+          "shortname": "Côte d'Ivoire",
+          "sovereignity": "UN member state",
+          "iso2": "CI",
+          "iso3": "CIV",
+          "numeric": "384",
+          "subdivisionCode": "ISO 3166-2:CI"
+        }
+      ]
+    },
+    {
+      "code": "XPD",
+      "number": "964",
+      "digits": null,
+      "currency": "Palladium (one troy ounce)",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XPF",
+      "number": "953",
+      "digits": 0,
+      "currency": "CFP franc (franc Pacifique)",
+      "countries": [
+        "French territories of the Pacific Ocean:  French Polynesia (PF)",
+        "New Caledonia (NC)",
+        "Wallis and Futuna (WF)"
+      ],
+      "isoCountries": [
+        {
+          "name": "New Caledonia",
+          "shortname": "New Caledonia",
+          "sovereignity": "France",
+          "iso2": "NC",
+          "iso3": "NCL",
+          "numeric": "540",
+          "subdivisionCode": "ISO 3166-2:NC"
+        },
+        {
+          "name": "The Territory of the Wallis and Futuna Islands",
+          "shortname": "Wallis and Futuna",
+          "sovereignity": "France",
+          "iso2": "WF",
+          "iso3": "WLF",
+          "numeric": "876",
+          "subdivisionCode": "ISO 3166-2:WF"
+        },
+        {
+          "name": "French Polynesia",
+          "shortname": "French Polynesia",
+          "sovereignity": "France",
+          "iso2": "PF",
+          "iso3": "PYF",
+          "numeric": "258",
+          "subdivisionCode": "ISO 3166-2:PF"
+        }
+      ]
+    },
+    {
+      "code": "XPT",
+      "number": "962",
+      "digits": null,
+      "currency": "Platinum (one troy ounce)",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XSU",
+      "number": "994",
+      "digits": null,
+      "currency": "SUCRE",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XTS",
+      "number": "963",
+      "digits": null,
+      "currency": "Code reserved for testing",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XUA",
+      "number": "965",
+      "digits": null,
+      "currency": "ADB Unit of Account",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "XXX",
+      "number": "999",
+      "digits": null,
+      "currency": "No currency",
+      "countries": [],
+      "isoCountries": []
+    },
+    {
+      "code": "YER",
+      "number": "886",
+      "digits": 2,
+      "currency": "Yemeni rial",
+      "countries": ["Yemen"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Yemen",
+          "shortname": "Yemen",
+          "sovereignity": "UN member state",
+          "iso2": "YE",
+          "iso3": "YEM",
+          "numeric": "887",
+          "subdivisionCode": "ISO 3166-2:YE"
+        }
+      ]
+    },
+    {
+      "code": "ZAR",
+      "number": "710",
+      "digits": 2,
+      "currency": "South African rand",
+      "countries": ["Lesotho", "Namibia", "South Africa"],
+      "isoCountries": [
+        {
+          "name": "The Kingdom of Lesotho",
+          "shortname": "Lesotho",
+          "sovereignity": "UN member state",
+          "iso2": "LS",
+          "iso3": "LSO",
+          "numeric": "426",
+          "subdivisionCode": "ISO 3166-2:LS"
+        },
+        {
+          "name": "The Republic of Namibia",
+          "shortname": "Namibia",
+          "sovereignity": "UN member state",
+          "iso2": "NA",
+          "iso3": "NAM",
+          "numeric": "516",
+          "subdivisionCode": "ISO 3166-2:NA"
+        },
+        {
+          "name": "The Republic of South Africa",
+          "shortname": "South Africa",
+          "sovereignity": "UN member state",
+          "iso2": "ZA",
+          "iso3": "ZAF",
+          "numeric": "710",
+          "subdivisionCode": "ISO 3166-2:ZA"
+        }
+      ]
+    },
+    {
+      "code": "ZMW",
+      "number": "967",
+      "digits": 2,
+      "currency": "Zambian kwacha",
+      "countries": ["Zambia"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Zambia",
+          "shortname": "Zambia",
+          "sovereignity": "UN member state",
+          "iso2": "ZM",
+          "iso3": "ZMB",
+          "numeric": "894",
+          "subdivisionCode": "ISO 3166-2:ZM"
+        }
+      ]
+    },
+    {
+      "code": "ZWL",
+      "number": "932",
+      "digits": 2,
+      "currency": "Zimbabwean dollar",
+      "countries": ["Zimbabwe"],
+      "isoCountries": [
+        {
+          "name": "The Republic of Zimbabwe",
+          "shortname": "Zimbabwe",
+          "sovereignity": "UN member state",
+          "iso2": "ZW",
+          "iso3": "ZWE",
+          "numeric": "716",
+          "subdivisionCode": "ISO 3166-2:ZW"
+        }
+      ]
+    }
+  ]
+}
